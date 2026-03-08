@@ -111,6 +111,14 @@ export type WorldMapData = {
   countries: Record<string, WorldMapCountry>;
 };
 
+export type MapPresentation = {
+  zoomToEndpoints: boolean;
+  showCountryBorders: boolean;
+  endpointPadding: number;
+  minViewportWidth: number;
+  minViewportHeight: number;
+};
+
 export type ValidationResult =
   | {
       ok: true;

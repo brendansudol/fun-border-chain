@@ -1,4 +1,9 @@
-import type { Difficulty, GameSettings, TimerSeconds } from "@/lib/border-chain/types";
+import type {
+  Difficulty,
+  GameSettings,
+  MapPresentation,
+  TimerSeconds,
+} from "@/lib/border-chain/types";
 
 export const DIFFICULTIES: Difficulty[] = ["easy", "medium", "hard", "expert"];
 export const TIMER_OPTIONS: TimerSeconds[] = [60, 90, 120];
@@ -8,6 +13,14 @@ export const DEFAULT_SETTINGS: GameSettings = {
   timerSeconds: 90,
   showShortestPathCount: true,
   hintsEnabled: true,
+};
+
+export const MAP_PRESENTATION: MapPresentation = {
+  zoomToEndpoints: true,
+  showCountryBorders: false,
+  endpointPadding: 32,
+  minViewportWidth: 320,
+  minViewportHeight: 180,
 };
 
 export const STORAGE_KEYS = {

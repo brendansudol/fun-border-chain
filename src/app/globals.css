@@ -405,9 +405,14 @@ button {
 
 .bc-map__country {
   fill: var(--map-base);
+  stroke: none;
+  stroke-width: 0;
+  transition: fill 220ms ease, opacity 220ms ease;
+}
+
+.bc-map[data-country-borders="on"] .bc-map__country {
   stroke: rgba(47, 60, 68, 0.18);
   stroke-width: 0.6;
-  transition: fill 220ms ease, opacity 220ms ease;
 }
 
 .bc-map__country[data-state="start"] {
@@ -447,13 +452,6 @@ button {
 .bc-map__line--solution {
   stroke: rgba(206, 88, 59, 0.8);
   stroke-width: 3;
-}
-
-.bc-map__endpoint {
-  fill: none;
-  stroke: rgba(15, 104, 112, 0.95);
-  stroke-width: 4;
-  animation: bc-ring 1.2s ease-in-out infinite;
 }
 
 .bc-map__label {
@@ -625,18 +623,6 @@ button {
 @keyframes bc-draw-line {
   to {
     stroke-dashoffset: 0;
-  }
-}
-
-@keyframes bc-ring {
-  0% {
-    transform: scale(0.95);
-    opacity: 0.5;
-  }
-
-  100% {
-    transform: scale(1.2);
-    opacity: 0.95;
   }
 }
 

@@ -17,7 +17,11 @@ import HeaderBar from "@/components/border-chain/HeaderBar";
 import ResultsSheet from "@/components/border-chain/ResultsSheet";
 import Toast from "@/components/border-chain/Toast";
 import WorldMap from "@/components/border-chain/WorldMap";
-import { HINT_PULSE_MS, TOAST_DURATION_MS } from "@/lib/border-chain/config";
+import {
+  HINT_PULSE_MS,
+  MAP_PRESENTATION,
+  TOAST_DURATION_MS,
+} from "@/lib/border-chain/config";
 import { bfsShortestPath, createInitialGameState } from "@/lib/border-chain/engine";
 import { getHintNextStep } from "@/lib/border-chain/hints";
 import { canonicalizeCountry } from "@/lib/border-chain/input";
@@ -380,7 +384,12 @@ export default function GameShell({
         />
 
         <div className="bc-play-layout">
-          <WorldMap mapData={mapData} meta={meta} state={state} />
+          <WorldMap
+            mapData={mapData}
+            meta={meta}
+            presentation={MAP_PRESENTATION}
+            state={state}
+          />
 
           <div className="bc-console">
             <ChainTrail chain={state.chain} meta={meta} />

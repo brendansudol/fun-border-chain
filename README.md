@@ -114,6 +114,11 @@ tests/
   unit/
 ```
 
+## Docs
+
+- `docs/001-spec.md` product and implementation spec
+- `docs/running-notes.md` working notes for ongoing design and implementation decisions
+
 ## Testing
 
 Current coverage is focused on pure gameplay logic:

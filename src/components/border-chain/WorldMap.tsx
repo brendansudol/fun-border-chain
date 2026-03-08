@@ -1,15 +1,18 @@
 "use client";
 
+import { computeMapViewBox } from "@/lib/border-chain/mapView";
 import { computeMapStatuses } from "@/lib/border-chain/selectors";
 import type {
   CountryMeta,
   GameState,
+  MapPresentation,
   WorldMapData,
 } from "@/lib/border-chain/types";
 
 type WorldMapProps = {
   mapData: WorldMapData;
   meta: CountryMeta;
+  presentation: MapPresentation;
   state: GameState;
 };
 
@@ -46,15 +49,23 @@ function buildSegments(
   return segments;
 }
 
-export default function WorldMap({ mapData, meta, state }: WorldMapProps) {
+export default function WorldMap({
+  mapData,
+  meta,
+  presentation,
+  state,
+}: WorldMapProps) {
   const statuses = computeMapStatuses(state);
   const chainSegments = buildSegments(state.chain, mapData, meta);
   const solutionSegments =
     state.phase === "lost" || state.phase === "revealed"
       ? buildSegments(state.solutionPath ?? [], mapData, meta)
       : [];
-  const current = state.chain[state.chain.length - 1];
-  const currentPoint = current ? getMapPoint(mapData, meta, current) : null;
+  const viewBox = computeMapViewBox(
+    mapData,
+    [state.puzzle?.start, state.puzzle?.target],
+    presentation,
+  );
   const labelCodes = Array.from(
     new Set(
       [state.puzzle?.start, state.puzzle?.target, state.activeHintCode].filter(
@@ -74,7 +85,8 @@ export default function WorldMap({ mapData, meta, state }: WorldMapProps) {
         <svg
           aria-label="World map"
           className="bc-map"
-          viewBox={mapData.viewBox.join(" ")}
+          data-country-borders={presentation.showCountryBorders ? "on" : "off"}
+          viewBox={viewBox.join(" ")}
         >
           <g className="bc-map__countries">
             {Object.values(mapData.countries).map((country) => (
@@ -114,15 +126,6 @@ export default function WorldMap({ mapData, meta, state }: WorldMapProps) {
               />
             ))}
           </g>
-
-          {currentPoint ? (
-            <circle
-              className="bc-map__endpoint"
-              cx={currentPoint[0]}
-              cy={currentPoint[1]}
-              r="10"
-            />
-          ) : null}
 
           <g className="bc-map__labels">
             {labelCodes.map((code) => {
