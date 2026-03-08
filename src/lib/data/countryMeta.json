@@ -1,0 +1,4727 @@
+{
+  "ABW": {
+    "code": "ABW",
+    "name": "Aruba",
+    "shortName": "Aruba",
+    "aliases": [
+      "ABW",
+      "Aruba",
+      "AW"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "AFG": {
+    "code": "AFG",
+    "name": "Afghanistan",
+    "shortName": "Afghanistan",
+    "aliases": [
+      "AF",
+      "AFG",
+      "Afġānistān",
+      "Afghanistan",
+      "Islamic Republic of Afghanistan"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "playable": true,
+    "labelPoint": [
+      800.49,
+      189.21
+    ],
+    "degree": 6
+  },
+  "AGO": {
+    "code": "AGO",
+    "name": "Angola",
+    "shortName": "Angola",
+    "aliases": [
+      "AGO",
+      "Angola",
+      "AO",
+      "Republic of Angola",
+      "República de Angola",
+      "ʁɛpublika de an'ɡɔla"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "playable": true,
+    "labelPoint": [
+      655.69,
+      360.89
+    ],
+    "degree": 4
+  },
+  "AIA": {
+    "code": "AIA",
+    "name": "Anguilla",
+    "shortName": "Anguilla",
+    "aliases": [
+      "AI",
+      "AIA",
+      "Anguilla"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "ALA": {
+    "code": "ALA",
+    "name": "Åland Islands",
+    "shortName": "Åland Islands",
+    "aliases": [
+      "Aaland",
+      "Ahvenanmaa",
+      "ALA",
+      "Aland",
+      "Åland Islands",
+      "AX"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "playable": false,
+    "degree": 0
+  },
+  "ALB": {
+    "code": "ALB",
+    "name": "Albania",
+    "shortName": "Albania",
+    "aliases": [
+      "AL",
+      "ALB",
+      "Albania",
+      "Republic of Albania",
+      "Shqipëri",
+      "Shqipëria",
+      "Shqipnia"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "playable": true,
+    "labelPoint": [
+      659.05,
+      162.02
+    ],
+    "degree": 3
+  },
+  "AND": {
+    "code": "AND",
+    "name": "Andorra",
+    "shortName": "Andorra",
+    "aliases": [
+      "AD",
+      "AND",
+      "Andorra",
+      "Principality of Andorra",
+      "Principat d'Andorra"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "playable": false,
+    "degree": 0
+  },
+  "ARE": {
+    "code": "ARE",
+    "name": "United Arab Emirates",
+    "shortName": "United Arab Emirates",
+    "aliases": [
+      "AE",
+      "ARE",
+      "Emirates",
+      "UAE",
+      "United Arab Emirates"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": true,
+    "labelPoint": [
+      769.42,
+      226.5
+    ],
+    "degree": 2
+  },
+  "ARG": {
+    "code": "ARG",
+    "name": "Argentina",
+    "shortName": "Argentina",
+    "aliases": [
+      "AR",
+      "ARG",
+      "Argentina",
+      "Argentine Republic",
+      "República Argentina"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "playable": true,
+    "labelPoint": [
+      404.23,
+      446.28
+    ],
+    "degree": 5
+  },
+  "ARM": {
+    "code": "ARM",
+    "name": "Armenia",
+    "shortName": "Armenia",
+    "aliases": [
+      "AM",
+      "ARM",
+      "Armenia",
+      "Hayastan",
+      "Republic of Armenia"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": true,
+    "labelPoint": [
+      733.2,
+      165.44
+    ],
+    "degree": 4
+  },
+  "ASM": {
+    "code": "ASM",
+    "name": "American Samoa",
+    "shortName": "American Samoa",
+    "aliases": [
+      "Amelika Sāmoa",
+      "American Samoa",
+      "Amerika Sāmoa",
+      "AS",
+      "ASM",
+      "Sāmoa Amelika"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "playable": false,
+    "degree": 0
+  },
+  "ATA": {
+    "code": "ATA",
+    "name": "Antarctica",
+    "shortName": "Antarctica",
+    "aliases": [
+      "Antarctica",
+      "AQ",
+      "ATA"
+    ],
+    "region": "Antarctic",
+    "playable": false,
+    "labelPoint": [
+      666.91,
+      591.69
+    ],
+    "degree": 0
+  },
+  "ATF": {
+    "code": "ATF",
+    "name": "French Southern and Antarctic Lands",
+    "shortName": "French Southern and Antarctic Lands",
+    "aliases": [
+      "ATF",
+      "French Southern and Antarctic Lands",
+      "French Southern Territories",
+      "Territory of the French Southern and Antarctic Lands",
+      "TF"
+    ],
+    "region": "Antarctic",
+    "playable": false,
+    "labelPoint": [
+      796.47,
+      498.66
+    ],
+    "degree": 0
+  },
+  "ATG": {
+    "code": "ATG",
+    "name": "Antigua and Barbuda",
+    "shortName": "Antigua and Barbuda",
+    "aliases": [
+      "AG",
+      "Antigua and Barbuda",
+      "ATG"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "AUS": {
+    "code": "AUS",
+    "name": "Australia",
+    "shortName": "Australia",
+    "aliases": [
+      "AU",
+      "AUS",
+      "Australia",
+      "Commonwealth of Australia"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "playable": false,
+    "labelPoint": [
+      1017.54,
+      410.9
+    ],
+    "degree": 0
+  },
+  "AUT": {
+    "code": "AUT",
+    "name": "Austria",
+    "shortName": "Austria",
+    "aliases": [
+      "AT",
+      "Austria",
+      "AUT",
+      "Oesterreich",
+      "Osterreich",
+      "Republic of Austria"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "playable": true,
+    "labelPoint": [
+      640.14,
+      138.26
+    ],
+    "degree": 7
+  },
+  "AZE": {
+    "code": "AZE",
+    "name": "Azerbaijan",
+    "shortName": "Azerbaijan",
+    "aliases": [
+      "AZ",
+      "AZE",
+      "Azerbaijan",
+      "Azərbaycan Respublikası",
+      "Republic of Azerbaijan"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": true,
+    "labelPoint": [
+      740.75,
+      165.43
+    ],
+    "degree": 5
+  },
+  "BDI": {
+    "code": "BDI",
+    "name": "Burundi",
+    "shortName": "Burundi",
+    "aliases": [
+      "BDI",
+      "BI",
+      "Burundi",
+      "Republic of Burundi",
+      "Republika y'Uburundi",
+      "République du Burundi"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": true,
+    "labelPoint": [
+      696.02,
+      327.94
+    ],
+    "degree": 3
+  },
+  "BEL": {
+    "code": "BEL",
+    "name": "Belgium",
+    "shortName": "Belgium",
+    "aliases": [
+      "BE",
+      "BEL",
+      "België",
+      "Belgien",
+      "Belgique",
+      "Belgium",
+      "Kingdom of Belgium",
+      "Königreich Belgien",
+      "Koninkrijk België",
+      "Royaume de Belgique"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "playable": true,
+    "labelPoint": [
+      612.85,
+      127.28
+    ],
+    "degree": 4
+  },
+  "BEN": {
+    "code": "BEN",
+    "name": "Benin",
+    "shortName": "Benin",
+    "aliases": [
+      "BEN",
+      "Benin",
+      "BJ",
+      "Republic of Benin",
+      "République du Bénin"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": true,
+    "labelPoint": [
+      607.47,
+      279.53
+    ],
+    "degree": 4
+  },
+  "BES": {
+    "code": "BES",
+    "name": "Caribbean Netherlands",
+    "shortName": "Caribbean Netherlands",
+    "aliases": [
+      "BES",
+      "BES islands",
+      "Bonaire, Sint Eustatius and Saba",
+      "Caribbean Netherlands"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "BFA": {
+    "code": "BFA",
+    "name": "Burkina Faso",
+    "shortName": "Burkina Faso",
+    "aliases": [
+      "BF",
+      "BFA",
+      "Burkina Faso"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": true,
+    "labelPoint": [
+      594.33,
+      269.62
+    ],
+    "degree": 6
+  },
+  "BGD": {
+    "code": "BGD",
+    "name": "Bangladesh",
+    "shortName": "Bangladesh",
+    "aliases": [
+      "Bangladesh",
+      "BD",
+      "BGD",
+      "Gônôprôjatôntri Bangladesh",
+      "People's Republic of Bangladesh"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "playable": true,
+    "labelPoint": [
+      882.15,
+      226.61
+    ],
+    "degree": 2
+  },
+  "BGR": {
+    "code": "BGR",
+    "name": "Bulgaria",
+    "shortName": "Bulgaria",
+    "aliases": [
+      "BG",
+      "BGR",
+      "Bulgaria",
+      "Republic of Bulgaria"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "playable": true,
+    "labelPoint": [
+      673.7,
+      156.06
+    ],
+    "degree": 5
+  },
+  "BHR": {
+    "code": "BHR",
+    "name": "Bahrain",
+    "shortName": "Bahrain",
+    "aliases": [
+      "Bahrain",
+      "BH",
+      "BHR",
+      "Kingdom of Bahrain",
+      "Mamlakat al-Baḥrayn"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": false,
+    "degree": 0
+  },
+  "BHS": {
+    "code": "BHS",
+    "name": "Bahamas",
+    "shortName": "Bahamas",
+    "aliases": [
+      "Bahamas",
+      "BHS",
+      "BS",
+      "Commonwealth of the Bahamas"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "labelPoint": [
+      357.41,
+      220.35
+    ],
+    "degree": 0
+  },
+  "BIH": {
+    "code": "BIH",
+    "name": "Bosnia and Herzegovina",
+    "shortName": "Bosnia and Herzegovina",
+    "aliases": [
+      "BA",
+      "BIH",
+      "Bosnia and Herzegovina",
+      "Bosnia-Herzegovina"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "playable": true,
+    "labelPoint": [
+      651.76,
+      150.8
+    ],
+    "degree": 3
+  },
+  "BLM": {
+    "code": "BLM",
+    "name": "Saint Barthélemy",
+    "shortName": "Saint Barthélemy",
+    "aliases": [
+      "BL",
+      "BLM",
+      "Collectivité de Saint-Barthélemy",
+      "Collectivity of Saint Barthélemy",
+      "Saint Barthélemy",
+      "St. Barthelemy"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "BLR": {
+    "code": "BLR",
+    "name": "Belarus",
+    "shortName": "Belarus",
+    "aliases": [
+      "Belarus",
+      "Bielaruś",
+      "BLR",
+      "BY",
+      "Republic of Belarus"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "playable": true,
+    "labelPoint": [
+      677.03,
+      117.18
+    ],
+    "degree": 5
+  },
+  "BLZ": {
+    "code": "BLZ",
+    "name": "Belize",
+    "shortName": "Belize",
+    "aliases": [
+      "Belize",
+      "BLZ",
+      "BZ"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "playable": true,
+    "labelPoint": [
+      319.05,
+      251.41
+    ],
+    "degree": 2
+  },
+  "BMU": {
+    "code": "BMU",
+    "name": "Bermuda",
+    "shortName": "Bermuda",
+    "aliases": [
+      "Bermuda",
+      "BM",
+      "BMU",
+      "Somers Isles",
+      "The Bermudas",
+      "The Islands of Bermuda"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "playable": false,
+    "degree": 0
+  },
+  "BOL": {
+    "code": "BOL",
+    "name": "Bolivia",
+    "shortName": "Bolivia",
+    "aliases": [
+      "BO",
+      "BOL",
+      "Bolivia",
+      "Bolivia, Plurinational State of",
+      "Buliwya",
+      "Buliwya Mamallaqta",
+      "Estado Plurinacional de Bolivia",
+      "Plurinational State of Bolivia",
+      "Tetã Volívia",
+      "Wuliwya",
+      "Wuliwya Suyu"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "playable": true,
+    "labelPoint": [
+      395.17,
+      377.59
+    ],
+    "degree": 5
+  },
+  "BRA": {
+    "code": "BRA",
+    "name": "Brazil",
+    "shortName": "Brazil",
+    "aliases": [
+      "BR",
+      "BRA",
+      "Brasil",
+      "Brazil",
+      "Federative Republic of Brazil",
+      "República Federativa do Brasil"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "playable": true,
+    "labelPoint": [
+      430.94,
+      355.36
+    ],
+    "degree": 9
+  },
+  "BRB": {
+    "code": "BRB",
+    "name": "Barbados",
+    "shortName": "Barbados",
+    "aliases": [
+      "Barbados",
+      "BB",
+      "BRB"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "BRN": {
+    "code": "BRN",
+    "name": "Brunei",
+    "shortName": "Brunei",
+    "aliases": [
+      "BN",
+      "BRN",
+      "Brunei",
+      "Brunei Darussalam",
+      "Nation of Brunei",
+      "Nation of Brunei, Abode of Peace",
+      "the Abode of Peace"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "playable": true,
+    "labelPoint": [
+      968.7,
+      297.96
+    ],
+    "degree": 1
+  },
+  "BTN": {
+    "code": "BTN",
+    "name": "Bhutan",
+    "shortName": "Bhutan",
+    "aliases": [
+      "Bhutan",
+      "BT",
+      "BTN",
+      "Kingdom of Bhutan"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "playable": true,
+    "labelPoint": [
+      880.24,
+      213.18
+    ],
+    "degree": 2
+  },
+  "BVT": {
+    "code": "BVT",
+    "name": "Bouvet Island",
+    "shortName": "Bouvet Island",
+    "aliases": [
+      "Bouvet Island",
+      "Bouvetøya",
+      "BV",
+      "BVT"
+    ],
+    "region": "Antarctic",
+    "playable": false,
+    "degree": 0
+  },
+  "BWA": {
+    "code": "BWA",
+    "name": "Botswana",
+    "shortName": "Botswana",
+    "aliases": [
+      "Botswana",
+      "BW",
+      "BWA",
+      "Lefatshe la Botswana",
+      "Republic of Botswana"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "playable": true,
+    "labelPoint": [
+      674.59,
+      397.64
+    ],
+    "degree": 4
+  },
+  "CAF": {
+    "code": "CAF",
+    "name": "Central African Republic",
+    "shortName": "Central African Republic",
+    "aliases": [
+      "CAF",
+      "Central African Republic",
+      "CF",
+      "République centrafricaine"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "playable": true,
+    "labelPoint": [
+      665.29,
+      291.08
+    ],
+    "degree": 6
+  },
+  "CAN": {
+    "code": "CAN",
+    "name": "Canada",
+    "shortName": "Canada",
+    "aliases": [
+      "CA",
+      "CAN",
+      "Canada"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "playable": true,
+    "labelPoint": [
+      344.06,
+      95.51
+    ],
+    "degree": 1
+  },
+  "CCK": {
+    "code": "CCK",
+    "name": "Cocos (Keeling) Islands",
+    "shortName": "Cocos (Keeling) Islands",
+    "aliases": [
+      "CC",
+      "CCK",
+      "Cocos (Keeling) Islands",
+      "Cocos Islands",
+      "Keeling Islands",
+      "Territory of the Cocos (Keeling) Islands"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "playable": false,
+    "degree": 0
+  },
+  "CHE": {
+    "code": "CHE",
+    "name": "Switzerland",
+    "shortName": "Switzerland",
+    "aliases": [
+      "CH",
+      "CHE",
+      "Schweiz",
+      "Suisse",
+      "Svizra",
+      "Svizzera",
+      "Swiss Confederation",
+      "Switzerland"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "playable": true,
+    "labelPoint": [
+      623.26,
+      141.24
+    ],
+    "degree": 4
+  },
+  "CHL": {
+    "code": "CHL",
+    "name": "Chile",
+    "shortName": "Chile",
+    "aliases": [
+      "Chile",
+      "CHL",
+      "CL",
+      "Republic of Chile",
+      "República de Chile"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "playable": true,
+    "labelPoint": [
+      388.55,
+      457.93
+    ],
+    "degree": 3
+  },
+  "CHN": {
+    "code": "CHN",
+    "name": "China",
+    "shortName": "China",
+    "aliases": [
+      "China",
+      "CHN",
+      "CN",
+      "People's Republic of China",
+      "Zhōngguó",
+      "Zhonghua",
+      "Zhōnghuá Rénmín Gònghéguó"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "playable": true,
+    "labelPoint": [
+      910.95,
+      180.15
+    ],
+    "degree": 14
+  },
+  "CIV": {
+    "code": "CIV",
+    "name": "Ivory Coast",
+    "shortName": "Ivory Coast",
+    "aliases": [
+      "CI",
+      "CIV",
+      "Cote d Ivoire",
+      "Côte d'Ivoire",
+      "Ivory Coast",
+      "Republic of Côte d'Ivoire",
+      "République de Côte d'Ivoire"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": true,
+    "labelPoint": [
+      582.03,
+      287.32
+    ],
+    "degree": 5
+  },
+  "CMR": {
+    "code": "CMR",
+    "name": "Cameroon",
+    "shortName": "Cameroon",
+    "aliases": [
+      "Cameroon",
+      "CM",
+      "CMR",
+      "Republic of Cameroon",
+      "République du Cameroun"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "playable": true,
+    "labelPoint": [
+      640.43,
+      294.35
+    ],
+    "degree": 6
+  },
+  "COD": {
+    "code": "COD",
+    "name": "DR Congo",
+    "shortName": "DR Congo",
+    "aliases": [
+      "CD",
+      "COD",
+      "Congo-Kinshasa",
+      "Congo, the Democratic Republic of the",
+      "Democratic Republic of Congo",
+      "Democratic Republic of the Congo",
+      "DR Congo",
+      "DRC"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "playable": true,
+    "labelPoint": [
+      675.64,
+      325.96
+    ],
+    "degree": 9
+  },
+  "COG": {
+    "code": "COG",
+    "name": "Republic of the Congo",
+    "shortName": "Republic of the Congo",
+    "aliases": [
+      "CG",
+      "COG",
+      "Congo",
+      "Congo-Brazzaville",
+      "Republic of the Congo"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "playable": true,
+    "labelPoint": [
+      648.59,
+      318.5
+    ],
+    "degree": 5
+  },
+  "COK": {
+    "code": "COK",
+    "name": "Cook Islands",
+    "shortName": "Cook Islands",
+    "aliases": [
+      "CK",
+      "COK",
+      "Cook Islands",
+      "Kūki 'Āirani"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "playable": false,
+    "degree": 0
+  },
+  "COL": {
+    "code": "COL",
+    "name": "Colombia",
+    "shortName": "Colombia",
+    "aliases": [
+      "CO",
+      "COL",
+      "Colombia",
+      "Republic of Colombia",
+      "República de Colombia"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "playable": true,
+    "labelPoint": [
+      365.59,
+      300.81
+    ],
+    "degree": 5
+  },
+  "COM": {
+    "code": "COM",
+    "name": "Comoros",
+    "shortName": "Comoros",
+    "aliases": [
+      "al-Ittiḥād al-Qumurī",
+      "COM",
+      "Comoros",
+      "KM",
+      "Udzima wa Komori",
+      "Union des Comores",
+      "Union of the Comoros"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": false,
+    "degree": 0
+  },
+  "CPV": {
+    "code": "CPV",
+    "name": "Cape Verde",
+    "shortName": "Cape Verde",
+    "aliases": [
+      "Cabo Verde",
+      "Cape Verde",
+      "CPV",
+      "CV",
+      "Republic of Cabo Verde",
+      "República de Cabo Verde"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": false,
+    "degree": 0
+  },
+  "CRI": {
+    "code": "CRI",
+    "name": "Costa Rica",
+    "shortName": "Costa Rica",
+    "aliases": [
+      "Costa Rica",
+      "CR",
+      "CRI",
+      "Republic of Costa Rica",
+      "República de Costa Rica"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "playable": true,
+    "labelPoint": [
+      330.9,
+      278.34
+    ],
+    "degree": 2
+  },
+  "CUB": {
+    "code": "CUB",
+    "name": "Cuba",
+    "shortName": "Cuba",
+    "aliases": [
+      "CU",
+      "CUB",
+      "Cuba",
+      "Republic of Cuba",
+      "República de Cuba"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "labelPoint": [
+      352,
+      234.86
+    ],
+    "degree": 0
+  },
+  "CUW": {
+    "code": "CUW",
+    "name": "Curaçao",
+    "shortName": "Curaçao",
+    "aliases": [
+      "Country of Curaçao",
+      "Curaçao",
+      "CUW",
+      "CW",
+      "Kòrsou",
+      "Land Curaçao",
+      "Pais Kòrsou"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "CXR": {
+    "code": "CXR",
+    "name": "Christmas Island",
+    "shortName": "Christmas Island",
+    "aliases": [
+      "Christmas Island",
+      "CX",
+      "CXR",
+      "Territory of Christmas Island"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "playable": false,
+    "degree": 0
+  },
+  "CYM": {
+    "code": "CYM",
+    "name": "Cayman Islands",
+    "shortName": "Cayman Islands",
+    "aliases": [
+      "Cayman Islands",
+      "CYM",
+      "KY"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "CYP": {
+    "code": "CYP",
+    "name": "Cyprus",
+    "shortName": "Cyprus",
+    "aliases": [
+      "CY",
+      "CYP",
+      "Cyprus",
+      "Kıbrıs",
+      "Kıbrıs Cumhuriyeti",
+      "Kýpros",
+      "Republic of Cyprus"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "playable": false,
+    "labelPoint": [
+      699.92,
+      185.21
+    ],
+    "degree": 0
+  },
+  "CZE": {
+    "code": "CZE",
+    "name": "Czechia",
+    "shortName": "Czechia",
+    "aliases": [
+      "Česká republika",
+      "Česko",
+      "CZ",
+      "CZE",
+      "Czech Republic",
+      "Czechia"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "playable": true,
+    "labelPoint": [
+      643.22,
+      130.44
+    ],
+    "degree": 4
+  },
+  "DEU": {
+    "code": "DEU",
+    "name": "Germany",
+    "shortName": "Germany",
+    "aliases": [
+      "Bundesrepublik Deutschland",
+      "DE",
+      "DEU",
+      "Federal Republic of Germany",
+      "Germany"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "playable": true,
+    "labelPoint": [
+      628.74,
+      125.72
+    ],
+    "degree": 9
+  },
+  "DJI": {
+    "code": "DJI",
+    "name": "Djibouti",
+    "shortName": "Djibouti",
+    "aliases": [
+      "DJ",
+      "DJI",
+      "Djibouti",
+      "Gabuuti",
+      "Gabuutih Ummuuno",
+      "Jabuuti",
+      "Jamhuuriyadda Jabuuti",
+      "Republic of Djibouti",
+      "République de Djibouti"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": true,
+    "labelPoint": [
+      735.61,
+      271.62
+    ],
+    "degree": 3
+  },
+  "DMA": {
+    "code": "DMA",
+    "name": "Dominica",
+    "shortName": "Dominica",
+    "aliases": [
+      "Commonwealth of Dominica",
+      "DM",
+      "DMA",
+      "Dominica",
+      "Dominique",
+      "Wai‘tu kubuli"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "DNK": {
+    "code": "DNK",
+    "name": "Denmark",
+    "shortName": "Denmark",
+    "aliases": [
+      "Danmark",
+      "Denmark",
+      "DK",
+      "DNK",
+      "Kingdom of Denmark",
+      "Kongeriget Danmark"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "playable": true,
+    "labelPoint": [
+      626.74,
+      108.17
+    ],
+    "degree": 1
+  },
+  "DOM": {
+    "code": "DOM",
+    "name": "Dominican Republic",
+    "shortName": "Dominican Republic",
+    "aliases": [
+      "DO",
+      "DOM",
+      "Dominican Republic"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": true,
+    "labelPoint": [
+      377.47,
+      245.12
+    ],
+    "degree": 1
+  },
+  "DZA": {
+    "code": "DZA",
+    "name": "Algeria",
+    "shortName": "Algeria",
+    "aliases": [
+      "Algeria",
+      "Algérie",
+      "DZ",
+      "DZA",
+      "Dzayer",
+      "People's Democratic Republic of Algeria"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "playable": true,
+    "labelPoint": [
+      608.03,
+      210.54
+    ],
+    "degree": 7
+  },
+  "ECU": {
+    "code": "ECU",
+    "name": "Ecuador",
+    "shortName": "Ecuador",
+    "aliases": [
+      "EC",
+      "ECU",
+      "Ecuador",
+      "Republic of Ecuador",
+      "República del Ecuador"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "playable": true,
+    "labelPoint": [
+      348.3,
+      320.79
+    ],
+    "degree": 2
+  },
+  "EGY": {
+    "code": "EGY",
+    "name": "Egypt",
+    "shortName": "Egypt",
+    "aliases": [
+      "Arab Republic of Egypt",
+      "EG",
+      "EGY",
+      "Egypt"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "playable": true,
+    "labelPoint": [
+      692.65,
+      216.7
+    ],
+    "degree": 4
+  },
+  "ERI": {
+    "code": "ERI",
+    "name": "Eritrea",
+    "shortName": "Eritrea",
+    "aliases": [
+      "Dawlat Iritriyá",
+      "ER",
+      "ERI",
+      "Eritrea",
+      "Iritriyā",
+      "State of Eritrea",
+      "ʾErtrā"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": true,
+    "labelPoint": [
+      722.85,
+      258.01
+    ],
+    "degree": 3
+  },
+  "ESH": {
+    "code": "ESH",
+    "name": "Western Sahara",
+    "shortName": "Western Sahara",
+    "aliases": [
+      "EH",
+      "ESH",
+      "Sahrawi Arab Democratic Republic",
+      "Taneẓroft Tutrimt",
+      "Western Sahara"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "playable": true,
+    "labelPoint": [
+      562.06,
+      224.94
+    ],
+    "degree": 3
+  },
+  "ESP": {
+    "code": "ESP",
+    "name": "Spain",
+    "shortName": "Spain",
+    "aliases": [
+      "ES",
+      "ESP",
+      "Kingdom of Spain",
+      "Reino de España",
+      "Spain"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "playable": true,
+    "labelPoint": [
+      589.3,
+      165.04
+    ],
+    "degree": 3
+  },
+  "EST": {
+    "code": "EST",
+    "name": "Estonia",
+    "shortName": "Estonia",
+    "aliases": [
+      "EE",
+      "Eesti",
+      "Eesti Vabariik",
+      "EST",
+      "Estonia",
+      "Republic of Estonia"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "playable": true,
+    "labelPoint": [
+      668.62,
+      99.26
+    ],
+    "degree": 2
+  },
+  "ETH": {
+    "code": "ETH",
+    "name": "Ethiopia",
+    "shortName": "Ethiopia",
+    "aliases": [
+      "ET",
+      "ETH",
+      "Ethiopia",
+      "Federal Democratic Republic of Ethiopia",
+      "ʾĪtyōṗṗyā"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": true,
+    "labelPoint": [
+      726.55,
+      283.23
+    ],
+    "degree": 6
+  },
+  "FIN": {
+    "code": "FIN",
+    "name": "Finland",
+    "shortName": "Finland",
+    "aliases": [
+      "FI",
+      "FIN",
+      "Finland",
+      "Republic of Finland",
+      "Republiken Finland",
+      "Suomen tasavalta",
+      "Suomi"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "playable": true,
+    "labelPoint": [
+      666.5,
+      80.08
+    ],
+    "degree": 3
+  },
+  "FJI": {
+    "code": "FJI",
+    "name": "Fiji",
+    "shortName": "Fiji",
+    "aliases": [
+      "Fiji",
+      "Fijī Gaṇarājya",
+      "FJ",
+      "FJI",
+      "Matanitu ko Viti",
+      "Republic of Fiji",
+      "Viti"
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "playable": false,
+    "labelPoint": [
+      1118.88,
+      379.8
+    ],
+    "degree": 0
+  },
+  "FLK": {
+    "code": "FLK",
+    "name": "Falkland Islands",
+    "shortName": "Falkland Islands",
+    "aliases": [
+      "Falkland Islands",
+      "Falkland Islands (Malvinas)",
+      "FK",
+      "FLK",
+      "Islas Malvinas"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "playable": false,
+    "labelPoint": [
+      434.52,
+      507.29
+    ],
+    "degree": 0
+  },
+  "FRA": {
+    "code": "FRA",
+    "name": "France",
+    "shortName": "France",
+    "aliases": [
+      "FR",
+      "FRA",
+      "France",
+      "French Republic",
+      "République française"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "playable": true,
+    "labelPoint": [
+      587.92,
+      159.39
+    ],
+    "degree": 6
+  },
+  "FRO": {
+    "code": "FRO",
+    "name": "Faroe Islands",
+    "shortName": "Faroe Islands",
+    "aliases": [
+      "Faeroe Islands",
+      "Færøerne",
+      "Faroe Islands",
+      "FO",
+      "Føroyar",
+      "FRO"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "playable": false,
+    "degree": 0
+  },
+  "FSM": {
+    "code": "FSM",
+    "name": "Micronesia",
+    "shortName": "Micronesia",
+    "aliases": [
+      "Federated States of Micronesia",
+      "FM",
+      "FSM",
+      "Micronesia",
+      "Micronesia, Federated States of"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "playable": false,
+    "degree": 0
+  },
+  "GAB": {
+    "code": "GAB",
+    "name": "Gabon",
+    "shortName": "Gabon",
+    "aliases": [
+      "GA",
+      "GAB",
+      "Gabon",
+      "Gabonese Republic",
+      "République Gabonaise"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "playable": true,
+    "labelPoint": [
+      637.53,
+      317.79
+    ],
+    "degree": 3
+  },
+  "GBR": {
+    "code": "GBR",
+    "name": "United Kingdom",
+    "shortName": "United Kingdom",
+    "aliases": [
+      "Britain",
+      "GB",
+      "GBR",
+      "Great Britain",
+      "UK",
+      "United Kingdom",
+      "United Kingdom of Great Britain and Northern Ireland"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "playable": true,
+    "labelPoint": [
+      592.27,
+      115.94
+    ],
+    "degree": 1
+  },
+  "GEO": {
+    "code": "GEO",
+    "name": "Georgia",
+    "shortName": "Georgia",
+    "aliases": [
+      "GE",
+      "GEO",
+      "Georgia",
+      "Sakartvelo"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": true,
+    "labelPoint": [
+      727.58,
+      158.24
+    ],
+    "degree": 4
+  },
+  "GGY": {
+    "code": "GGY",
+    "name": "Guernsey",
+    "shortName": "Guernsey",
+    "aliases": [
+      "Bailiwick of Guernsey",
+      "Bailliage de Guernesey",
+      "GG",
+      "GGY",
+      "Guernsey"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "playable": false,
+    "degree": 0
+  },
+  "GHA": {
+    "code": "GHA",
+    "name": "Ghana",
+    "shortName": "Ghana",
+    "aliases": [
+      "GH",
+      "GHA",
+      "Ghana",
+      "Republic of Ghana"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": true,
+    "labelPoint": [
+      596.04,
+      285.92
+    ],
+    "degree": 3
+  },
+  "GIB": {
+    "code": "GIB",
+    "name": "Gibraltar",
+    "shortName": "Gibraltar",
+    "aliases": [
+      "GI",
+      "GIB",
+      "Gibraltar"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "playable": false,
+    "degree": 0
+  },
+  "GIN": {
+    "code": "GIN",
+    "name": "Guinea",
+    "shortName": "Guinea",
+    "aliases": [
+      "GIN",
+      "GN",
+      "Guinea",
+      "Republic of Guinea",
+      "République de Guinée"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": true,
+    "labelPoint": [
+      564.66,
+      276.55
+    ],
+    "degree": 6
+  },
+  "GLP": {
+    "code": "GLP",
+    "name": "Guadeloupe",
+    "shortName": "Guadeloupe",
+    "aliases": [
+      "GLP",
+      "GP",
+      "Guadeloupe",
+      "Gwadloup"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "GMB": {
+    "code": "GMB",
+    "name": "Gambia",
+    "shortName": "Gambia",
+    "aliases": [
+      "Gambia",
+      "GM",
+      "GMB",
+      "Republic of the Gambia"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": true,
+    "labelPoint": [
+      550.85,
+      265.28
+    ],
+    "degree": 1
+  },
+  "GNB": {
+    "code": "GNB",
+    "name": "Guinea-Bissau",
+    "shortName": "Guinea-Bissau",
+    "aliases": [
+      "GNB",
+      "Guinea-Bissau",
+      "GW",
+      "Republic of Guinea-Bissau",
+      "República da Guiné-Bissau"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": true,
+    "labelPoint": [
+      551.79,
+      270.69
+    ],
+    "degree": 2
+  },
+  "GNQ": {
+    "code": "GNQ",
+    "name": "Equatorial Guinea",
+    "shortName": "Equatorial Guinea",
+    "aliases": [
+      "Equatorial Guinea",
+      "GNQ",
+      "GQ",
+      "Republic of Equatorial Guinea",
+      "República da Guiné Equatorial",
+      "República de Guinea Ecuatorial",
+      "République de Guinée équatoriale"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "playable": true,
+    "labelPoint": [
+      633.29,
+      309.27
+    ],
+    "degree": 2
+  },
+  "GRC": {
+    "code": "GRC",
+    "name": "Greece",
+    "shortName": "Greece",
+    "aliases": [
+      "Elláda",
+      "GR",
+      "GRC",
+      "Greece",
+      "Hellenic Republic"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "playable": true,
+    "labelPoint": [
+      667.58,
+      169.77
+    ],
+    "degree": 4
+  },
+  "GRD": {
+    "code": "GRD",
+    "name": "Grenada",
+    "shortName": "Grenada",
+    "aliases": [
+      "GD",
+      "GRD",
+      "Grenada"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "GRL": {
+    "code": "GRL",
+    "name": "Greenland",
+    "shortName": "Greenland",
+    "aliases": [
+      "GL",
+      "Greenland",
+      "GRL",
+      "Grønland"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "playable": false,
+    "labelPoint": [
+      503.43,
+      50.5
+    ],
+    "degree": 0
+  },
+  "GTM": {
+    "code": "GTM",
+    "name": "Guatemala",
+    "shortName": "Guatemala",
+    "aliases": [
+      "GT",
+      "GTM",
+      "Guatemala",
+      "Republic of Guatemala"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "playable": true,
+    "labelPoint": [
+      313.11,
+      257
+    ],
+    "degree": 4
+  },
+  "GUF": {
+    "code": "GUF",
+    "name": "French Guiana",
+    "shortName": "French Guiana",
+    "aliases": [
+      "French Guiana",
+      "GF",
+      "GUF",
+      "Guiana",
+      "Guyane"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "playable": false,
+    "degree": 0
+  },
+  "GUM": {
+    "code": "GUM",
+    "name": "Guam",
+    "shortName": "Guam",
+    "aliases": [
+      "GU",
+      "Guåhån",
+      "Guam",
+      "GUM"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "playable": false,
+    "degree": 0
+  },
+  "GUY": {
+    "code": "GUY",
+    "name": "Guyana",
+    "shortName": "Guyana",
+    "aliases": [
+      "Co-operative Republic of Guyana",
+      "GUY",
+      "Guyana",
+      "GY"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "playable": true,
+    "labelPoint": [
+      410.83,
+      297.59
+    ],
+    "degree": 3
+  },
+  "HKG": {
+    "code": "HKG",
+    "name": "Hong Kong",
+    "shortName": "Hong Kong",
+    "aliases": [
+      "HK",
+      "HKG",
+      "Hong Kong",
+      "Hong Kong Special Administrative Region of the People's Republic of China"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "playable": false,
+    "degree": 0
+  },
+  "HMD": {
+    "code": "HMD",
+    "name": "Heard Island and McDonald Islands",
+    "shortName": "Heard Island and McDonald Islands",
+    "aliases": [
+      "Heard Island and McDonald Islands",
+      "HM",
+      "HMD"
+    ],
+    "region": "Antarctic",
+    "playable": false,
+    "degree": 0
+  },
+  "HND": {
+    "code": "HND",
+    "name": "Honduras",
+    "shortName": "Honduras",
+    "aliases": [
+      "HN",
+      "HND",
+      "Honduras",
+      "Republic of Honduras",
+      "República de Honduras"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "playable": true,
+    "labelPoint": [
+      324.74,
+      260.26
+    ],
+    "degree": 3
+  },
+  "HRV": {
+    "code": "HRV",
+    "name": "Croatia",
+    "shortName": "Croatia",
+    "aliases": [
+      "Croatia",
+      "HR",
+      "HRV",
+      "Hrvatska",
+      "Republic of Croatia",
+      "Republika Hrvatska"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "playable": true,
+    "labelPoint": [
+      647.92,
+      147.75
+    ],
+    "degree": 5
+  },
+  "HTI": {
+    "code": "HTI",
+    "name": "Haiti",
+    "shortName": "Haiti",
+    "aliases": [
+      "Haiti",
+      "HT",
+      "HTI",
+      "Repiblik Ayiti",
+      "Republic of Haiti",
+      "République d'Haïti"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": true,
+    "labelPoint": [
+      370.54,
+      245.06
+    ],
+    "degree": 1
+  },
+  "HUN": {
+    "code": "HUN",
+    "name": "Hungary",
+    "shortName": "Hungary",
+    "aliases": [
+      "HU",
+      "HUN",
+      "Hungary"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "playable": true,
+    "labelPoint": [
+      655.34,
+      139.76
+    ],
+    "degree": 7
+  },
+  "IDN": {
+    "code": "IDN",
+    "name": "Indonesia",
+    "shortName": "Indonesia",
+    "aliases": [
+      "ID",
+      "IDN",
+      "Indonesia",
+      "Republic of Indonesia",
+      "Republik Indonesia"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "playable": true,
+    "labelPoint": [
+      976.81,
+      323.63
+    ],
+    "degree": 3
+  },
+  "IMN": {
+    "code": "IMN",
+    "name": "Isle of Man",
+    "shortName": "Isle of Man",
+    "aliases": [
+      "Ellan Vannin",
+      "IM",
+      "IMN",
+      "Isle of Man",
+      "Mann",
+      "Mannin"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "playable": false,
+    "degree": 0
+  },
+  "IND": {
+    "code": "IND",
+    "name": "India",
+    "shortName": "India",
+    "aliases": [
+      "Bhārat",
+      "Bharat Ganrajya",
+      "IN",
+      "IND",
+      "India",
+      "Republic of India"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "playable": true,
+    "labelPoint": [
+      848.93,
+      230.22
+    ],
+    "degree": 7
+  },
+  "IOT": {
+    "code": "IOT",
+    "name": "British Indian Ocean Territory",
+    "shortName": "British Indian Ocean Territory",
+    "aliases": [
+      "British Indian Ocean Territory",
+      "IO",
+      "IOT"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": false,
+    "degree": 0
+  },
+  "IRL": {
+    "code": "IRL",
+    "name": "Ireland",
+    "shortName": "Ireland",
+    "aliases": [
+      "Éire",
+      "IE",
+      "Ireland",
+      "IRL",
+      "Poblacht na hÉireann",
+      "Republic of Ireland"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "playable": true,
+    "labelPoint": [
+      577.89,
+      118.3
+    ],
+    "degree": 1
+  },
+  "IRN": {
+    "code": "IRN",
+    "name": "Iran",
+    "shortName": "Iran",
+    "aliases": [
+      "IR",
+      "Iran",
+      "Iran, Islamic Republic of",
+      "IRN",
+      "Islamic Republic of Iran",
+      "Jomhuri-ye Eslāmi-ye Irān"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "playable": true,
+    "labelPoint": [
+      765.63,
+      194.3
+    ],
+    "degree": 7
+  },
+  "IRQ": {
+    "code": "IRQ",
+    "name": "Iraq",
+    "shortName": "Iraq",
+    "aliases": [
+      "IQ",
+      "Iraq",
+      "IRQ",
+      "Jumhūriyyat al-‘Irāq",
+      "Republic of Iraq"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": true,
+    "labelPoint": [
+      733.21,
+      192.26
+    ],
+    "degree": 6
+  },
+  "ISL": {
+    "code": "ISL",
+    "name": "Iceland",
+    "shortName": "Iceland",
+    "aliases": [
+      "Iceland",
+      "IS",
+      "ISL",
+      "Island",
+      "Lýðveldið Ísland",
+      "Republic of Iceland"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "playable": false,
+    "labelPoint": [
+      552.62,
+      77.78
+    ],
+    "degree": 0
+  },
+  "ISR": {
+    "code": "ISR",
+    "name": "Israel",
+    "shortName": "Israel",
+    "aliases": [
+      "IL",
+      "ISR",
+      "Israel",
+      "Medīnat Yisrā'el",
+      "State of Israel"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": true,
+    "labelPoint": [
+      707.11,
+      198
+    ],
+    "degree": 5
+  },
+  "ITA": {
+    "code": "ITA",
+    "name": "Italy",
+    "shortName": "Italy",
+    "aliases": [
+      "IT",
+      "ITA",
+      "Italian Republic",
+      "Italy",
+      "Repubblica italiana"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "playable": true,
+    "labelPoint": [
+      635.65,
+      156.27
+    ],
+    "degree": 4
+  },
+  "JAM": {
+    "code": "JAM",
+    "name": "Jamaica",
+    "shortName": "Jamaica",
+    "aliases": [
+      "JAM",
+      "Jamaica",
+      "JM"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "labelPoint": [
+      355.47,
+      247.9
+    ],
+    "degree": 0
+  },
+  "JEY": {
+    "code": "JEY",
+    "name": "Jersey",
+    "shortName": "Jersey",
+    "aliases": [
+      "Bailiwick of Jersey",
+      "Bailliage dé Jèrri",
+      "Bailliage de Jersey",
+      "JE",
+      "Jersey",
+      "JEY"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "playable": false,
+    "degree": 0
+  },
+  "JOR": {
+    "code": "JOR",
+    "name": "Jordan",
+    "shortName": "Jordan",
+    "aliases": [
+      "al-Mamlakah al-Urdunīyah al-Hāshimīyah",
+      "Hashemite Kingdom of Jordan",
+      "JO",
+      "JOR",
+      "Jordan"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": true,
+    "labelPoint": [
+      712.62,
+      198.91
+    ],
+    "degree": 5
+  },
+  "JPN": {
+    "code": "JPN",
+    "name": "Japan",
+    "shortName": "Japan",
+    "aliases": [
+      "Japan",
+      "JP",
+      "JPN",
+      "Nihon",
+      "Nippon"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "playable": false,
+    "labelPoint": [
+      1012.49,
+      175.25
+    ],
+    "degree": 0
+  },
+  "KAZ": {
+    "code": "KAZ",
+    "name": "Kazakhstan",
+    "shortName": "Kazakhstan",
+    "aliases": [
+      "KAZ",
+      "Kazakhstan",
+      "KZ",
+      "Qazaqstan",
+      "Qazaqstan Respublïkası",
+      "Republic of Kazakhstan",
+      "Respublika Kazakhstan"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "playable": true,
+    "labelPoint": [
+      791.25,
+      136.54
+    ],
+    "degree": 5
+  },
+  "KEN": {
+    "code": "KEN",
+    "name": "Kenya",
+    "shortName": "Kenya",
+    "aliases": [
+      "Jamhuri ya Kenya",
+      "KE",
+      "KEN",
+      "Kenya",
+      "Republic of Kenya"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": true,
+    "labelPoint": [
+      721.34,
+      313.17
+    ],
+    "degree": 5
+  },
+  "KGZ": {
+    "code": "KGZ",
+    "name": "Kyrgyzstan",
+    "shortName": "Kyrgyzstan",
+    "aliases": [
+      "KG",
+      "KGZ",
+      "Kyrgyz Republic",
+      "Kyrgyz Respublikasy",
+      "Kyrgyzstan"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "playable": true,
+    "labelPoint": [
+      819.54,
+      160.68
+    ],
+    "degree": 4
+  },
+  "KHM": {
+    "code": "KHM",
+    "name": "Cambodia",
+    "shortName": "Cambodia",
+    "aliases": [
+      "Cambodia",
+      "KH",
+      "KHM",
+      "Kingdom of Cambodia"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "playable": true,
+    "labelPoint": [
+      934.3,
+      268.23
+    ],
+    "degree": 3
+  },
+  "KIR": {
+    "code": "KIR",
+    "name": "Kiribati",
+    "shortName": "Kiribati",
+    "aliases": [
+      "Independent and Sovereign Republic of Kiribati",
+      "KI",
+      "KIR",
+      "Kiribati",
+      "Republic of Kiribati",
+      "Ribaberiki Kiribati"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "playable": false,
+    "degree": 0
+  },
+  "KNA": {
+    "code": "KNA",
+    "name": "Saint Kitts and Nevis",
+    "shortName": "Saint Kitts and Nevis",
+    "aliases": [
+      "Federation of Saint Christopher and Nevis",
+      "KN",
+      "KNA",
+      "Saint Kitts and Nevis"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "KOR": {
+    "code": "KOR",
+    "name": "South Korea",
+    "shortName": "South Korea",
+    "aliases": [
+      "KOR",
+      "Korea, Republic of",
+      "KR",
+      "Republic of Korea",
+      "South Korea"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "playable": true,
+    "labelPoint": [
+      984.3,
+      179.55
+    ],
+    "degree": 1
+  },
+  "KWT": {
+    "code": "KWT",
+    "name": "Kuwait",
+    "shortName": "Kuwait",
+    "aliases": [
+      "Dawlat al-Kuwait",
+      "Kuwait",
+      "KW",
+      "KWT",
+      "State of Kuwait"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": true,
+    "labelPoint": [
+      746.65,
+      206.15
+    ],
+    "degree": 2
+  },
+  "LAO": {
+    "code": "LAO",
+    "name": "Laos",
+    "shortName": "Laos",
+    "aliases": [
+      "LA",
+      "LAO",
+      "Lao PDR",
+      "Lao People's Democratic Republic",
+      "Laos",
+      "Sathalanalat Paxathipatai Paxaxon Lao"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "playable": true,
+    "labelPoint": [
+      927.88,
+      246.77
+    ],
+    "degree": 5
+  },
+  "LBN": {
+    "code": "LBN",
+    "name": "Lebanon",
+    "shortName": "Lebanon",
+    "aliases": [
+      "Al-Jumhūrīyah Al-Libnānīyah",
+      "LB",
+      "LBN",
+      "Lebanese Republic",
+      "Lebanon"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": true,
+    "labelPoint": [
+      708.86,
+      188.93
+    ],
+    "degree": 2
+  },
+  "LBR": {
+    "code": "LBR",
+    "name": "Liberia",
+    "shortName": "Liberia",
+    "aliases": [
+      "LBR",
+      "Liberia",
+      "LR",
+      "Republic of Liberia"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": true,
+    "labelPoint": [
+      569.84,
+      291.49
+    ],
+    "degree": 3
+  },
+  "LBY": {
+    "code": "LBY",
+    "name": "Libya",
+    "shortName": "Libya",
+    "aliases": [
+      "Dawlat Libya",
+      "LBY",
+      "Libya",
+      "LY",
+      "State of Libya"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "playable": true,
+    "labelPoint": [
+      655.76,
+      214.88
+    ],
+    "degree": 6
+  },
+  "LCA": {
+    "code": "LCA",
+    "name": "Saint Lucia",
+    "shortName": "Saint Lucia",
+    "aliases": [
+      "LC",
+      "LCA",
+      "Saint Lucia"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "LIE": {
+    "code": "LIE",
+    "name": "Liechtenstein",
+    "shortName": "Liechtenstein",
+    "aliases": [
+      "Fürstentum Liechtenstein",
+      "LI",
+      "LIE",
+      "Liechtenstein",
+      "Principality of Liechtenstein"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "playable": false,
+    "degree": 0
+  },
+  "LKA": {
+    "code": "LKA",
+    "name": "Sri Lanka",
+    "shortName": "Sri Lanka",
+    "aliases": [
+      "Democratic Socialist Republic of Sri Lanka",
+      "ilaṅkai",
+      "LK",
+      "LKA",
+      "Sri Lanka"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "playable": true,
+    "labelPoint": [
+      858.36,
+      286.77
+    ],
+    "degree": 1
+  },
+  "LSO": {
+    "code": "LSO",
+    "name": "Lesotho",
+    "shortName": "Lesotho",
+    "aliases": [
+      "Kingdom of Lesotho",
+      "Lesotho",
+      "LS",
+      "LSO",
+      "Muso oa Lesotho"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "playable": true,
+    "labelPoint": [
+      686.71,
+      425.81
+    ],
+    "degree": 1
+  },
+  "LTU": {
+    "code": "LTU",
+    "name": "Lithuania",
+    "shortName": "Lithuania",
+    "aliases": [
+      "Lietuvos Respublika",
+      "Lithuania",
+      "LT",
+      "LTU",
+      "Republic of Lithuania"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "playable": true,
+    "labelPoint": [
+      664.99,
+      110.89
+    ],
+    "degree": 4
+  },
+  "LUX": {
+    "code": "LUX",
+    "name": "Luxembourg",
+    "shortName": "Luxembourg",
+    "aliases": [
+      "Grand Duchy of Luxembourg",
+      "Grand-Duché de Luxembourg",
+      "Großherzogtum Luxemburg",
+      "Groussherzogtum Lëtzebuerg",
+      "LU",
+      "LUX",
+      "Luxembourg"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "playable": true,
+    "labelPoint": [
+      616.81,
+      130.46
+    ],
+    "degree": 3
+  },
+  "LVA": {
+    "code": "LVA",
+    "name": "Latvia",
+    "shortName": "Latvia",
+    "aliases": [
+      "Latvia",
+      "Latvijas Republika",
+      "LV",
+      "LVA",
+      "Republic of Latvia"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "playable": true,
+    "labelPoint": [
+      666.86,
+      105.58
+    ],
+    "degree": 4
+  },
+  "MAC": {
+    "code": "MAC",
+    "name": "Macau",
+    "shortName": "Macau",
+    "aliases": [
+      "MAC",
+      "Macao",
+      "Macao Special Administrative Region of the People's Republic of China",
+      "Macau",
+      "MO",
+      "Região Administrativa Especial de Macau da República Popular da China"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "playable": false,
+    "degree": 0
+  },
+  "MAF": {
+    "code": "MAF",
+    "name": "Saint Martin",
+    "shortName": "Saint Martin",
+    "aliases": [
+      "Collectivité de Saint-Martin",
+      "Collectivity of Saint Martin",
+      "MAF",
+      "MF",
+      "Saint Martin",
+      "Saint Martin (French part)"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "MAR": {
+    "code": "MAR",
+    "name": "Morocco",
+    "shortName": "Morocco",
+    "aliases": [
+      "Al-Mamlakah al-Maġribiyah",
+      "Kingdom of Morocco",
+      "MA",
+      "MAR",
+      "Morocco"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "playable": true,
+    "labelPoint": [
+      573.87,
+      204.14
+    ],
+    "degree": 3
+  },
+  "MCO": {
+    "code": "MCO",
+    "name": "Monaco",
+    "shortName": "Monaco",
+    "aliases": [
+      "MC",
+      "MCO",
+      "Monaco",
+      "Principality of Monaco",
+      "Principauté de Monaco"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "playable": false,
+    "degree": 0
+  },
+  "MDA": {
+    "code": "MDA",
+    "name": "Moldova",
+    "shortName": "Moldova",
+    "aliases": [
+      "MD",
+      "MDA",
+      "Moldova",
+      "Moldova, Republic of",
+      "Republic of Moldova",
+      "Republica Moldova"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "playable": true,
+    "labelPoint": [
+      681.25,
+      139.75
+    ],
+    "degree": 2
+  },
+  "MDG": {
+    "code": "MDG",
+    "name": "Madagascar",
+    "shortName": "Madagascar",
+    "aliases": [
+      "Madagascar",
+      "MDG",
+      "MG",
+      "Repoblikan'i Madagasikara",
+      "Republic of Madagascar",
+      "République de Madagascar"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": false,
+    "labelPoint": [
+      747.29,
+      387.37
+    ],
+    "degree": 0
+  },
+  "MDV": {
+    "code": "MDV",
+    "name": "Maldives",
+    "shortName": "Maldives",
+    "aliases": [
+      "Dhivehi Raajjeyge Jumhooriyya",
+      "Maldive Islands",
+      "Maldives",
+      "MDV",
+      "MV",
+      "Republic of the Maldives"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "playable": false,
+    "degree": 0
+  },
+  "MEX": {
+    "code": "MEX",
+    "name": "Mexico",
+    "shortName": "Mexico",
+    "aliases": [
+      "Estados Unidos Mexicanos",
+      "MEX",
+      "Mexicanos",
+      "Mexico",
+      "MX",
+      "United Mexican States"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "playable": true,
+    "labelPoint": [
+      280.07,
+      226.4
+    ],
+    "degree": 3
+  },
+  "MHL": {
+    "code": "MHL",
+    "name": "Marshall Islands",
+    "shortName": "Marshall Islands",
+    "aliases": [
+      "Aolepān Aorōkin M̧ajeļ",
+      "Marshall Islands",
+      "MH",
+      "MHL",
+      "Republic of the Marshall Islands"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "playable": false,
+    "degree": 0
+  },
+  "MKD": {
+    "code": "MKD",
+    "name": "North Macedonia",
+    "shortName": "North Macedonia",
+    "aliases": [
+      "Macedonia",
+      "Macedonia, The Former Yugoslav Republic of",
+      "MK",
+      "MKD",
+      "North Macedonia",
+      "Republic of North Macedonia",
+      "The former Yugoslav Republic of Macedonia"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "playable": true,
+    "labelPoint": [
+      663.82,
+      160.29
+    ],
+    "degree": 4
+  },
+  "MLI": {
+    "code": "MLI",
+    "name": "Mali",
+    "shortName": "Mali",
+    "aliases": [
+      "Mali",
+      "ML",
+      "MLI",
+      "Republic of Mali",
+      "République du Mali"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": true,
+    "labelPoint": [
+      588.75,
+      251.2
+    ],
+    "degree": 7
+  },
+  "MLT": {
+    "code": "MLT",
+    "name": "Malta",
+    "shortName": "Malta",
+    "aliases": [
+      "Malta",
+      "MLT",
+      "MT",
+      "Repubblika ta' Malta",
+      "Republic of Malta"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "playable": false,
+    "degree": 0
+  },
+  "MMR": {
+    "code": "MMR",
+    "name": "Myanmar",
+    "shortName": "Myanmar",
+    "aliases": [
+      "Burma",
+      "MM",
+      "MMR",
+      "Myanmar",
+      "Pyidaunzu Thanmăda Myăma Nainngandaw",
+      "Republic of the Union of Myanmar"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "playable": true,
+    "labelPoint": [
+      903.36,
+      237.22
+    ],
+    "degree": 5
+  },
+  "MNE": {
+    "code": "MNE",
+    "name": "Montenegro",
+    "shortName": "Montenegro",
+    "aliases": [
+      "Crna Gora",
+      "ME",
+      "MNE",
+      "Montenegro"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "playable": true,
+    "labelPoint": [
+      656.41,
+      155.92
+    ],
+    "degree": 4
+  },
+  "MNG": {
+    "code": "MNG",
+    "name": "Mongolia",
+    "shortName": "Mongolia",
+    "aliases": [
+      "MN",
+      "MNG",
+      "Mongolia"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "playable": true,
+    "labelPoint": [
+      895.03,
+      141.31
+    ],
+    "degree": 2
+  },
+  "MNP": {
+    "code": "MNP",
+    "name": "Northern Mariana Islands",
+    "shortName": "Northern Mariana Islands",
+    "aliases": [
+      "Commonwealth of the Northern Mariana Islands",
+      "MNP",
+      "MP",
+      "Northern Mariana Islands",
+      "Sankattan Siha Na Islas Mariånas"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "playable": false,
+    "degree": 0
+  },
+  "MOZ": {
+    "code": "MOZ",
+    "name": "Mozambique",
+    "shortName": "Mozambique",
+    "aliases": [
+      "MOZ",
+      "Mozambique",
+      "MZ",
+      "Republic of Mozambique",
+      "República de Moçambique"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": true,
+    "labelPoint": [
+      712.32,
+      379.42
+    ],
+    "degree": 6
+  },
+  "MRT": {
+    "code": "MRT",
+    "name": "Mauritania",
+    "shortName": "Mauritania",
+    "aliases": [
+      "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah",
+      "Islamic Republic of Mauritania",
+      "Mauritania",
+      "MR",
+      "MRT"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": true,
+    "labelPoint": [
+      567.46,
+      240.21
+    ],
+    "degree": 4
+  },
+  "MSR": {
+    "code": "MSR",
+    "name": "Montserrat",
+    "shortName": "Montserrat",
+    "aliases": [
+      "Montserrat",
+      "MS",
+      "MSR"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "MTQ": {
+    "code": "MTQ",
+    "name": "Martinique",
+    "shortName": "Martinique",
+    "aliases": [
+      "Martinique",
+      "MQ",
+      "MTQ"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "MUS": {
+    "code": "MUS",
+    "name": "Mauritius",
+    "shortName": "Mauritius",
+    "aliases": [
+      "Mauritius",
+      "MU",
+      "MUS",
+      "Republic of Mauritius",
+      "République de Maurice"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": false,
+    "degree": 0
+  },
+  "MWI": {
+    "code": "MWI",
+    "name": "Malawi",
+    "shortName": "Malawi",
+    "aliases": [
+      "Malawi",
+      "MW",
+      "MWI",
+      "Republic of Malawi"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": true,
+    "labelPoint": [
+      708.91,
+      364.35
+    ],
+    "degree": 3
+  },
+  "MYS": {
+    "code": "MYS",
+    "name": "Malaysia",
+    "shortName": "Malaysia",
+    "aliases": [
+      "Malaysia",
+      "MY",
+      "MYS"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "playable": true,
+    "labelPoint": [
+      952.05,
+      301.55
+    ],
+    "degree": 3
+  },
+  "MYT": {
+    "code": "MYT",
+    "name": "Mayotte",
+    "shortName": "Mayotte",
+    "aliases": [
+      "Département de Mayotte",
+      "Department of Mayotte",
+      "Mayotte",
+      "MYT",
+      "YT"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": false,
+    "degree": 0
+  },
+  "NAM": {
+    "code": "NAM",
+    "name": "Namibia",
+    "shortName": "Namibia",
+    "aliases": [
+      "NA",
+      "NAM",
+      "Namibia",
+      "Namibië",
+      "Republic of Namibia"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "playable": true,
+    "labelPoint": [
+      653.8,
+      397.6
+    ],
+    "degree": 4
+  },
+  "NCL": {
+    "code": "NCL",
+    "name": "New Caledonia",
+    "shortName": "New Caledonia",
+    "aliases": [
+      "NC",
+      "NCL",
+      "New Caledonia"
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "playable": false,
+    "labelPoint": [
+      1120.37,
+      394.53
+    ],
+    "degree": 0
+  },
+  "NER": {
+    "code": "NER",
+    "name": "Niger",
+    "shortName": "Niger",
+    "aliases": [
+      "NE",
+      "NER",
+      "Niger",
+      "Nijar",
+      "Republic of Niger"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": true,
+    "labelPoint": [
+      629.47,
+      250.89
+    ],
+    "degree": 7
+  },
+  "NFK": {
+    "code": "NFK",
+    "name": "Norfolk Island",
+    "shortName": "Norfolk Island",
+    "aliases": [
+      "NF",
+      "NFK",
+      "Norfolk Island",
+      "Teratri of Norf'k Ailen",
+      "Territory of Norfolk Island"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "playable": false,
+    "degree": 0
+  },
+  "NGA": {
+    "code": "NGA",
+    "name": "Nigeria",
+    "shortName": "Nigeria",
+    "aliases": [
+      "Federal Republic of Nigeria",
+      "Naíjíríà",
+      "NG",
+      "NGA",
+      "Nigeria",
+      "Nijeriya"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": true,
+    "labelPoint": [
+      625.56,
+      279.91
+    ],
+    "degree": 4
+  },
+  "NIC": {
+    "code": "NIC",
+    "name": "Nicaragua",
+    "shortName": "Nicaragua",
+    "aliases": [
+      "NI",
+      "NIC",
+      "Nicaragua",
+      "Republic of Nicaragua",
+      "República de Nicaragua"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "playable": true,
+    "labelPoint": [
+      329.05,
+      267.62
+    ],
+    "degree": 2
+  },
+  "NIU": {
+    "code": "NIU",
+    "name": "Niue",
+    "shortName": "Niue",
+    "aliases": [
+      "NIU",
+      "Niue",
+      "NU"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "playable": false,
+    "degree": 0
+  },
+  "NLD": {
+    "code": "NLD",
+    "name": "Netherlands",
+    "shortName": "Netherlands",
+    "aliases": [
+      "Holland",
+      "Kingdom of the Netherlands",
+      "Nederland",
+      "Netherlands",
+      "NL",
+      "NLD"
+    ],
+    "region": "Europe",
+    "subregion": "Western Europe",
+    "playable": true,
+    "labelPoint": [
+      615.28,
+      121.42
+    ],
+    "degree": 2
+  },
+  "NOR": {
+    "code": "NOR",
+    "name": "Norway",
+    "shortName": "Norway",
+    "aliases": [
+      "Kingdom of Norway",
+      "Kongeriket Noreg",
+      "Kongeriket Norge",
+      "NO",
+      "NOR",
+      "Noreg",
+      "Norge",
+      "Norway"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "playable": true,
+    "labelPoint": [
+      635.81,
+      69.28
+    ],
+    "degree": 3
+  },
+  "NPL": {
+    "code": "NPL",
+    "name": "Nepal",
+    "shortName": "Nepal",
+    "aliases": [
+      "Federal Democratic Republic of Nepal",
+      "Loktāntrik Ganatantra Nepāl",
+      "Nepal",
+      "NP",
+      "NPL"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "playable": true,
+    "labelPoint": [
+      859.65,
+      210.15
+    ],
+    "degree": 2
+  },
+  "NRU": {
+    "code": "NRU",
+    "name": "Nauru",
+    "shortName": "Nauru",
+    "aliases": [
+      "Naoero",
+      "Nauru",
+      "NR",
+      "NRU",
+      "Pleasant Island",
+      "Republic of Nauru",
+      "Ripublik Naoero"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "playable": false,
+    "degree": 0
+  },
+  "NZL": {
+    "code": "NZL",
+    "name": "New Zealand",
+    "shortName": "New Zealand",
+    "aliases": [
+      "Aotearoa",
+      "New Zealand",
+      "NZ",
+      "NZL"
+    ],
+    "region": "Oceania",
+    "subregion": "Australia and New Zealand",
+    "playable": false,
+    "labelPoint": [
+      1107.95,
+      470.42
+    ],
+    "degree": 0
+  },
+  "OMN": {
+    "code": "OMN",
+    "name": "Oman",
+    "shortName": "Oman",
+    "aliases": [
+      "OM",
+      "Oman",
+      "OMN",
+      "Salṭanat ʻUmān",
+      "Sultanate of Oman"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": true,
+    "labelPoint": [
+      776.53,
+      238.69
+    ],
+    "degree": 3
+  },
+  "PAK": {
+    "code": "PAK",
+    "name": "Pakistan",
+    "shortName": "Pakistan",
+    "aliases": [
+      "Islāmī Jumhūriya'eh Pākistān",
+      "Islamic Republic of Pakistan",
+      "PAK",
+      "Pakistan",
+      "PK"
+    ],
+    "region": "Asia",
+    "subregion": "Southern Asia",
+    "playable": true,
+    "labelPoint": [
+      813.14,
+      203.8
+    ],
+    "degree": 4
+  },
+  "PAN": {
+    "code": "PAN",
+    "name": "Panama",
+    "shortName": "Panama",
+    "aliases": [
+      "PA",
+      "PAN",
+      "Panama",
+      "Republic of Panama",
+      "República de Panamá"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "playable": true,
+    "labelPoint": [
+      343.58,
+      283.69
+    ],
+    "degree": 2
+  },
+  "PCN": {
+    "code": "PCN",
+    "name": "Pitcairn Islands",
+    "shortName": "Pitcairn Islands",
+    "aliases": [
+      "PCN",
+      "Pitcairn",
+      "Pitcairn Group of Islands",
+      "Pitcairn Henderson Ducie and Oeno Islands",
+      "Pitcairn Islands",
+      "PN"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "playable": false,
+    "degree": 0
+  },
+  "PER": {
+    "code": "PER",
+    "name": "Peru",
+    "shortName": "Peru",
+    "aliases": [
+      "PE",
+      "PER",
+      "Peru",
+      "Republic of Peru",
+      "República del Perú"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "playable": true,
+    "labelPoint": [
+      362.2,
+      349.51
+    ],
+    "degree": 5
+  },
+  "PHL": {
+    "code": "PHL",
+    "name": "Philippines",
+    "shortName": "Philippines",
+    "aliases": [
+      "PH",
+      "Philippines",
+      "PHL",
+      "Republic of the Philippines",
+      "Repúblika ng Pilipinas"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "playable": false,
+    "labelPoint": [
+      991.96,
+      271.68
+    ],
+    "degree": 0
+  },
+  "PLW": {
+    "code": "PLW",
+    "name": "Palau",
+    "shortName": "Palau",
+    "aliases": [
+      "Beluu er a Belau",
+      "Palau",
+      "PLW",
+      "PW",
+      "Republic of Palau"
+    ],
+    "region": "Oceania",
+    "subregion": "Micronesia",
+    "playable": false,
+    "degree": 0
+  },
+  "PNG": {
+    "code": "PNG",
+    "name": "Papua New Guinea",
+    "shortName": "Papua New Guinea",
+    "aliases": [
+      "Independen Stet bilong Papua Niugini",
+      "Independent State of Papua New Guinea",
+      "Papua New Guinea",
+      "PG",
+      "PNG"
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "playable": true,
+    "labelPoint": [
+      1065.72,
+      339.36
+    ],
+    "degree": 1
+  },
+  "POL": {
+    "code": "POL",
+    "name": "Poland",
+    "shortName": "Poland",
+    "aliases": [
+      "PL",
+      "POL",
+      "Poland",
+      "Republic of Poland",
+      "Rzeczpospolita Polska"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "playable": true,
+    "labelPoint": [
+      653.67,
+      122.02
+    ],
+    "degree": 7
+  },
+  "PRI": {
+    "code": "PRI",
+    "name": "Puerto Rico",
+    "shortName": "Puerto Rico",
+    "aliases": [
+      "Commonwealth of Puerto Rico",
+      "Estado Libre Asociado de Puerto Rico",
+      "PR",
+      "PRI",
+      "Puerto Rico"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "labelPoint": [
+      389.8,
+      247.53
+    ],
+    "degree": 0
+  },
+  "PRK": {
+    "code": "PRK",
+    "name": "North Korea",
+    "shortName": "North Korea",
+    "aliases": [
+      "Chosŏn Minjujuŭi Inmin Konghwaguk",
+      "Democratic People's Republic of Korea",
+      "DPRK",
+      "Korea, Democratic People's Republic of",
+      "KP",
+      "North Korea",
+      "PRK"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "playable": true,
+    "labelPoint": [
+      976.45,
+      165.74
+    ],
+    "degree": 3
+  },
+  "PRT": {
+    "code": "PRT",
+    "name": "Portugal",
+    "shortName": "Portugal",
+    "aliases": [
+      "Portugal",
+      "Portuguesa",
+      "Portuguese Republic",
+      "PRT",
+      "PT",
+      "República Portuguesa"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "playable": true,
+    "labelPoint": [
+      576.09,
+      167.64
+    ],
+    "degree": 1
+  },
+  "PRY": {
+    "code": "PRY",
+    "name": "Paraguay",
+    "shortName": "Paraguay",
+    "aliases": [
+      "Paraguay",
+      "PRY",
+      "PY",
+      "Republic of Paraguay",
+      "República del Paraguay",
+      "Tetã Paraguái"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "playable": true,
+    "labelPoint": [
+      417.24,
+      401.93
+    ],
+    "degree": 3
+  },
+  "PSE": {
+    "code": "PSE",
+    "name": "Palestine",
+    "shortName": "Palestine",
+    "aliases": [
+      "Dawlat Filasṭin",
+      "Palestine",
+      "Palestine, State of",
+      "PS",
+      "PSE",
+      "State of Palestine"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": true,
+    "labelPoint": [
+      707.78,
+      196.3
+    ],
+    "degree": 3
+  },
+  "PYF": {
+    "code": "PYF",
+    "name": "French Polynesia",
+    "shortName": "French Polynesia",
+    "aliases": [
+      "French Polynesia",
+      "PF",
+      "Polynésie française",
+      "Pōrīnetia Farāni",
+      "PYF"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "playable": false,
+    "degree": 0
+  },
+  "QAT": {
+    "code": "QAT",
+    "name": "Qatar",
+    "shortName": "Qatar",
+    "aliases": [
+      "Dawlat Qaṭar",
+      "QA",
+      "QAT",
+      "Qatar",
+      "State of Qatar"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": true,
+    "labelPoint": [
+      759.42,
+      221.06
+    ],
+    "degree": 1
+  },
+  "REU": {
+    "code": "REU",
+    "name": "Réunion",
+    "shortName": "Réunion",
+    "aliases": [
+      "RE",
+      "REU",
+      "Réunion",
+      "Réunion Island"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": false,
+    "degree": 0
+  },
+  "ROU": {
+    "code": "ROU",
+    "name": "Romania",
+    "shortName": "Romania",
+    "aliases": [
+      "RO",
+      "Romania",
+      "ROU",
+      "Roumania",
+      "Rumania"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "playable": true,
+    "labelPoint": [
+      671.85,
+      144.69
+    ],
+    "degree": 5
+  },
+  "RUS": {
+    "code": "RUS",
+    "name": "Russia",
+    "shortName": "Russia",
+    "aliases": [
+      "RU",
+      "RUS",
+      "Russia",
+      "Russian Federation"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "playable": true,
+    "labelPoint": [
+      849.11,
+      91.26
+    ],
+    "degree": 14
+  },
+  "RWA": {
+    "code": "RWA",
+    "name": "Rwanda",
+    "shortName": "Rwanda",
+    "aliases": [
+      "Republic of Rwanda",
+      "République du Rwanda",
+      "Repubulika y'u Rwanda",
+      "RW",
+      "RWA",
+      "Rwanda"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": true,
+    "labelPoint": [
+      696.07,
+      322.87
+    ],
+    "degree": 4
+  },
+  "SAU": {
+    "code": "SAU",
+    "name": "Saudi Arabia",
+    "shortName": "Saudi Arabia",
+    "aliases": [
+      "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah",
+      "Kingdom of Saudi Arabia",
+      "SA",
+      "SAU",
+      "Saudi",
+      "Saudi Arabia"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": true,
+    "labelPoint": [
+      739.09,
+      225.64
+    ],
+    "degree": 7
+  },
+  "SDN": {
+    "code": "SDN",
+    "name": "Sudan",
+    "shortName": "Sudan",
+    "aliases": [
+      "Jumhūrīyat as-Sūdān",
+      "Republic of the Sudan",
+      "SD",
+      "SDN",
+      "Sudan"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "playable": true,
+    "labelPoint": [
+      694.69,
+      255.95
+    ],
+    "degree": 7
+  },
+  "SEN": {
+    "code": "SEN",
+    "name": "Senegal",
+    "shortName": "Senegal",
+    "aliases": [
+      "Republic of Senegal",
+      "République du Sénégal",
+      "SEN",
+      "Senegal",
+      "SN"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": true,
+    "labelPoint": [
+      553.85,
+      262.01
+    ],
+    "degree": 5
+  },
+  "SGP": {
+    "code": "SGP",
+    "name": "Singapore",
+    "shortName": "Singapore",
+    "aliases": [
+      "Republic of Singapore",
+      "Republik Singapura",
+      "SG",
+      "SGP",
+      "Singapore",
+      "Singapura"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "playable": false,
+    "degree": 0
+  },
+  "SGS": {
+    "code": "SGS",
+    "name": "South Georgia",
+    "shortName": "South Georgia",
+    "aliases": [
+      "GS",
+      "SGS",
+      "South Georgia",
+      "South Georgia and the South Sandwich Islands"
+    ],
+    "region": "Antarctic",
+    "playable": false,
+    "degree": 0
+  },
+  "SHN": {
+    "code": "SHN",
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "shortName": "Saint Helena, Ascension and Tristan da Cunha",
+    "aliases": [
+      "Saint Helena",
+      "Saint Helena, Ascension and Tristan da Cunha",
+      "SHN",
+      "St. Helena, Ascension and Tristan da Cunha"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": false,
+    "degree": 0
+  },
+  "SJM": {
+    "code": "SJM",
+    "name": "Svalbard and Jan Mayen",
+    "shortName": "Svalbard and Jan Mayen",
+    "aliases": [
+      "SJ",
+      "SJM",
+      "Svalbard and Jan Mayen",
+      "Svalbard and Jan Mayen Islands",
+      "Svalbard og Jan Mayen"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "playable": false,
+    "degree": 0
+  },
+  "SLB": {
+    "code": "SLB",
+    "name": "Solomon Islands",
+    "shortName": "Solomon Islands",
+    "aliases": [
+      "SB",
+      "SLB",
+      "Solomon Islands"
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "playable": false,
+    "labelPoint": [
+      1111.87,
+      348.29
+    ],
+    "degree": 0
+  },
+  "SLE": {
+    "code": "SLE",
+    "name": "Sierra Leone",
+    "shortName": "Sierra Leone",
+    "aliases": [
+      "Republic of Sierra Leone",
+      "Sierra Leone",
+      "SL",
+      "SLE"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": true,
+    "labelPoint": [
+      562.25,
+      283.68
+    ],
+    "degree": 2
+  },
+  "SLV": {
+    "code": "SLV",
+    "name": "El Salvador",
+    "shortName": "El Salvador",
+    "aliases": [
+      "El Salvador",
+      "Republic of El Salvador",
+      "República de El Salvador",
+      "SLV",
+      "SV"
+    ],
+    "region": "Americas",
+    "subregion": "Central America",
+    "playable": true,
+    "labelPoint": [
+      317.07,
+      264.35
+    ],
+    "degree": 2
+  },
+  "SMR": {
+    "code": "SMR",
+    "name": "San Marino",
+    "shortName": "San Marino",
+    "aliases": [
+      "Most Serene Republic of San Marino",
+      "Repubblica di San Marino",
+      "Republic of San Marino",
+      "San Marino",
+      "SM",
+      "SMR"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "playable": false,
+    "degree": 0
+  },
+  "SOM": {
+    "code": "SOM",
+    "name": "Somalia",
+    "shortName": "Somalia",
+    "aliases": [
+      "aṣ-Ṣūmāl",
+      "Federal Republic of Somalia",
+      "Jamhuuriyadda Federaalka Soomaaliya",
+      "Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya",
+      "SO",
+      "SOM",
+      "Somalia"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": true,
+    "labelPoint": [
+      746.61,
+      297.74
+    ],
+    "degree": 3
+  },
+  "SPM": {
+    "code": "SPM",
+    "name": "Saint Pierre and Miquelon",
+    "shortName": "Saint Pierre and Miquelon",
+    "aliases": [
+      "Collectivité territoriale de Saint-Pierre-et-Miquelon",
+      "PM",
+      "Saint Pierre and Miquelon",
+      "SPM"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "playable": false,
+    "degree": 0
+  },
+  "SRB": {
+    "code": "SRB",
+    "name": "Serbia",
+    "shortName": "Serbia",
+    "aliases": [
+      "Republic of Serbia",
+      "Republika Srbija",
+      "RS",
+      "Serbia",
+      "SRB",
+      "Srbija"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "playable": true,
+    "labelPoint": [
+      660.48,
+      150.62
+    ],
+    "degree": 7
+  },
+  "SSD": {
+    "code": "SSD",
+    "name": "South Sudan",
+    "shortName": "South Sudan",
+    "aliases": [
+      "Republic of South Sudan",
+      "South Sudan",
+      "SS",
+      "SSD"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "playable": true,
+    "labelPoint": [
+      696.74,
+      288.29
+    ],
+    "degree": 6
+  },
+  "STP": {
+    "code": "STP",
+    "name": "São Tomé and Príncipe",
+    "shortName": "São Tomé and Príncipe",
+    "aliases": [
+      "Democratic Republic of São Tomé and Príncipe",
+      "República Democrática de São Tomé e Príncipe",
+      "São Tomé and Príncipe",
+      "ST",
+      "STP"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "playable": false,
+    "degree": 0
+  },
+  "SUR": {
+    "code": "SUR",
+    "name": "Suriname",
+    "shortName": "Suriname",
+    "aliases": [
+      "Republic of Suriname",
+      "Republiek Suriname",
+      "Sarnam",
+      "SR",
+      "Sranangron",
+      "SUR",
+      "Suriname"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "playable": true,
+    "labelPoint": [
+      420.58,
+      300.08
+    ],
+    "degree": 2
+  },
+  "SVK": {
+    "code": "SVK",
+    "name": "Slovakia",
+    "shortName": "Slovakia",
+    "aliases": [
+      "SK",
+      "Slovak Republic",
+      "Slovakia",
+      "Slovenská republika",
+      "SVK"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "playable": true,
+    "labelPoint": [
+      655.29,
+      134.21
+    ],
+    "degree": 5
+  },
+  "SVN": {
+    "code": "SVN",
+    "name": "Slovenia",
+    "shortName": "Slovenia",
+    "aliases": [
+      "Republic of Slovenia",
+      "Republika Slovenija",
+      "SI",
+      "Slovenia",
+      "SVN"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "playable": true,
+    "labelPoint": [
+      642.96,
+      143.67
+    ],
+    "degree": 4
+  },
+  "SWE": {
+    "code": "SWE",
+    "name": "Sweden",
+    "shortName": "Sweden",
+    "aliases": [
+      "Kingdom of Sweden",
+      "Konungariket Sverige",
+      "SE",
+      "SWE",
+      "Sweden"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "playable": true,
+    "labelPoint": [
+      642.3,
+      86
+    ],
+    "degree": 2
+  },
+  "SWZ": {
+    "code": "SWZ",
+    "name": "Eswatini",
+    "shortName": "Eswatini",
+    "aliases": [
+      "Eswatini",
+      "Kingdom of Eswatini",
+      "Ngwane",
+      "Swatini",
+      "Swaziland",
+      "SWZ",
+      "SZ",
+      "Umbuso weSwatini",
+      "weSwatini"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "playable": true,
+    "labelPoint": [
+      697.49,
+      414.08
+    ],
+    "degree": 2
+  },
+  "SXM": {
+    "code": "SXM",
+    "name": "Sint Maarten",
+    "shortName": "Sint Maarten",
+    "aliases": [
+      "Sint Maarten",
+      "Sint Maarten (Dutch part)",
+      "SX",
+      "SXM"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "SYC": {
+    "code": "SYC",
+    "name": "Seychelles",
+    "shortName": "Seychelles",
+    "aliases": [
+      "Repiblik Sesel",
+      "Republic of Seychelles",
+      "République des Seychelles",
+      "SC",
+      "Seychelles",
+      "SYC"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": false,
+    "degree": 0
+  },
+  "SYR": {
+    "code": "SYR",
+    "name": "Syria",
+    "shortName": "Syria",
+    "aliases": [
+      "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah",
+      "SY",
+      "SYR",
+      "Syria",
+      "Syrian Arab Republic"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": true,
+    "labelPoint": [
+      716.49,
+      184.83
+    ],
+    "degree": 5
+  },
+  "TCA": {
+    "code": "TCA",
+    "name": "Turks and Caicos Islands",
+    "shortName": "Turks and Caicos Islands",
+    "aliases": [
+      "TC",
+      "TCA",
+      "Turks and Caicos Islands"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "TCD": {
+    "code": "TCD",
+    "name": "Chad",
+    "shortName": "Chad",
+    "aliases": [
+      "Chad",
+      "Republic of Chad",
+      "République du Tchad",
+      "TCD",
+      "Tchad",
+      "TD"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "playable": true,
+    "labelPoint": [
+      658.98,
+      258.43
+    ],
+    "degree": 6
+  },
+  "TGO": {
+    "code": "TGO",
+    "name": "Togo",
+    "shortName": "Togo",
+    "aliases": [
+      "République Togolaise",
+      "TG",
+      "TGO",
+      "Togo",
+      "Togolese",
+      "Togolese Republic"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "playable": true,
+    "labelPoint": [
+      603.19,
+      284.03
+    ],
+    "degree": 3
+  },
+  "THA": {
+    "code": "THA",
+    "name": "Thailand",
+    "shortName": "Thailand",
+    "aliases": [
+      "Kingdom of Thailand",
+      "Prathet",
+      "Ratcha Anachak Thai",
+      "TH",
+      "THA",
+      "Thai",
+      "Thailand"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "playable": true,
+    "labelPoint": [
+      920.83,
+      259.57
+    ],
+    "degree": 4
+  },
+  "TJK": {
+    "code": "TJK",
+    "name": "Tajikistan",
+    "shortName": "Tajikistan",
+    "aliases": [
+      "Çumhuriyi Toçikiston",
+      "Republic of Tajikistan",
+      "Tajikistan",
+      "TJ",
+      "TJK",
+      "Toçikiston"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "playable": true,
+    "labelPoint": [
+      811.74,
+      171.52
+    ],
+    "degree": 4
+  },
+  "TKL": {
+    "code": "TKL",
+    "name": "Tokelau",
+    "shortName": "Tokelau",
+    "aliases": [
+      "TK",
+      "TKL",
+      "Tokelau"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "playable": false,
+    "degree": 0
+  },
+  "TKM": {
+    "code": "TKM",
+    "name": "Turkmenistan",
+    "shortName": "Turkmenistan",
+    "aliases": [
+      "TKM",
+      "TM",
+      "Turkmenistan"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "playable": true,
+    "labelPoint": [
+      776.36,
+      169.67
+    ],
+    "degree": 4
+  },
+  "TLS": {
+    "code": "TLS",
+    "name": "Timor-Leste",
+    "shortName": "Timor-Leste",
+    "aliases": [
+      "Democratic Republic of Timor-Leste",
+      "East Timor",
+      "República Democrática de Timor-Leste",
+      "Repúblika Demokrátika Timór-Leste",
+      "Timor",
+      "Timór Lorosa'e",
+      "Timor-Leste",
+      "TL",
+      "TLS"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "playable": true,
+    "labelPoint": [
+      1003.13,
+      347.97
+    ],
+    "degree": 1
+  },
+  "TON": {
+    "code": "TON",
+    "name": "Tonga",
+    "shortName": "Tonga",
+    "aliases": [
+      "Kingdom of Tonga",
+      "TO",
+      "TON",
+      "Tonga"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "playable": false,
+    "degree": 0
+  },
+  "TTO": {
+    "code": "TTO",
+    "name": "Trinidad and Tobago",
+    "shortName": "Trinidad and Tobago",
+    "aliases": [
+      "Republic of Trinidad and Tobago",
+      "Trinidad and Tobago",
+      "TT",
+      "TTO"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "labelPoint": [
+      404.02,
+      276.62
+    ],
+    "degree": 0
+  },
+  "TUN": {
+    "code": "TUN",
+    "name": "Tunisia",
+    "shortName": "Tunisia",
+    "aliases": [
+      "al-Jumhūriyyah at-Tūnisiyyah",
+      "Republic of Tunisia",
+      "TN",
+      "TUN",
+      "Tunisia",
+      "Tunisian Republic"
+    ],
+    "region": "Africa",
+    "subregion": "Northern Africa",
+    "playable": true,
+    "labelPoint": [
+      628.91,
+      187.99
+    ],
+    "degree": 2
+  },
+  "TUR": {
+    "code": "TUR",
+    "name": "Türkiye",
+    "shortName": "Türkiye",
+    "aliases": [
+      "Republic of Turkey",
+      "Republic of Türkiye",
+      "TR",
+      "TUR",
+      "Turkey",
+      "Türkiye",
+      "Türkiye Cumhuriyeti"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": true,
+    "labelPoint": [
+      704.45,
+      169.74
+    ],
+    "degree": 8
+  },
+  "TUV": {
+    "code": "TUV",
+    "name": "Tuvalu",
+    "shortName": "Tuvalu",
+    "aliases": [
+      "TUV",
+      "Tuvalu",
+      "TV"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "playable": false,
+    "degree": 0
+  },
+  "TWN": {
+    "code": "TWN",
+    "name": "Taiwan",
+    "shortName": "Taiwan",
+    "aliases": [
+      "Chinese Taipei",
+      "Republic of China",
+      "Republic of China (Taiwan)",
+      "Taiwan",
+      "TW",
+      "TWN",
+      "Zhōnghuá Mínguó"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "playable": false,
+    "labelPoint": [
+      978.22,
+      226.97
+    ],
+    "degree": 0
+  },
+  "TZA": {
+    "code": "TZA",
+    "name": "Tanzania",
+    "shortName": "Tanzania",
+    "aliases": [
+      "Jamhuri ya Muungano wa Tanzania",
+      "Tanzania",
+      "Tanzania, United Republic of",
+      "TZ",
+      "TZA",
+      "United Republic of Tanzania"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": true,
+    "labelPoint": [
+      711.37,
+      338.63
+    ],
+    "degree": 8
+  },
+  "UGA": {
+    "code": "UGA",
+    "name": "Uganda",
+    "shortName": "Uganda",
+    "aliases": [
+      "Jamhuri ya Uganda",
+      "Republic of Uganda",
+      "UG",
+      "UGA",
+      "Uganda"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": true,
+    "labelPoint": [
+      703.91,
+      310.57
+    ],
+    "degree": 5
+  },
+  "UKR": {
+    "code": "UKR",
+    "name": "Ukraine",
+    "shortName": "Ukraine",
+    "aliases": [
+      "UA",
+      "UKR",
+      "Ukraine",
+      "Ukrayina"
+    ],
+    "region": "Europe",
+    "subregion": "Eastern Europe",
+    "playable": true,
+    "labelPoint": [
+      688.39,
+      132.78
+    ],
+    "degree": 7
+  },
+  "UMI": {
+    "code": "UMI",
+    "name": "United States Minor Outlying Islands",
+    "shortName": "United States Minor Outlying Islands",
+    "aliases": [
+      "UM",
+      "UMI",
+      "United States Minor Outlying Islands"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "playable": false,
+    "degree": 0
+  },
+  "UNK": {
+    "code": "UNK",
+    "name": "Kosovo",
+    "shortName": "Kosovo",
+    "aliases": [
+      "Kosovo",
+      "Republic of Kosovo",
+      "UNK",
+      "XK"
+    ],
+    "region": "Europe",
+    "subregion": "Southeast Europe",
+    "playable": false,
+    "degree": 0
+  },
+  "URY": {
+    "code": "URY",
+    "name": "Uruguay",
+    "shortName": "Uruguay",
+    "aliases": [
+      "Oriental Republic of Uruguay",
+      "República Oriental del Uruguay",
+      "Uruguay",
+      "URY",
+      "UY"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "playable": true,
+    "labelPoint": [
+      429.37,
+      437.6
+    ],
+    "degree": 2
+  },
+  "USA": {
+    "code": "USA",
+    "name": "United States",
+    "shortName": "United States",
+    "aliases": [
+      "U.S.",
+      "U.S.A.",
+      "United States",
+      "United States of America",
+      "US",
+      "USA"
+    ],
+    "region": "Americas",
+    "subregion": "North America",
+    "playable": true,
+    "labelPoint": [
+      287.02,
+      151.12
+    ],
+    "degree": 2
+  },
+  "UZB": {
+    "code": "UZB",
+    "name": "Uzbekistan",
+    "shortName": "Uzbekistan",
+    "aliases": [
+      "O‘zbekiston Respublikasi",
+      "Republic of Uzbekistan",
+      "UZ",
+      "UZB",
+      "Uzbekistan"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "playable": true,
+    "labelPoint": [
+      785.92,
+      159.85
+    ],
+    "degree": 5
+  },
+  "VAT": {
+    "code": "VAT",
+    "name": "Vatican City",
+    "shortName": "Vatican City",
+    "aliases": [
+      "Holy See (Vatican City State)",
+      "Stato della Città del Vaticano",
+      "VA",
+      "VAT",
+      "Vatican",
+      "Vatican City",
+      "Vatican City State"
+    ],
+    "region": "Europe",
+    "subregion": "Southern Europe",
+    "playable": false,
+    "degree": 0
+  },
+  "VCT": {
+    "code": "VCT",
+    "name": "Saint Vincent and the Grenadines",
+    "shortName": "Saint Vincent and the Grenadines",
+    "aliases": [
+      "Saint Vincent and the Grenadines",
+      "VC",
+      "VCT"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "VEN": {
+    "code": "VEN",
+    "name": "Venezuela",
+    "shortName": "Venezuela",
+    "aliases": [
+      "Bolivarian Republic of Venezuela",
+      "República Bolivariana de Venezuela",
+      "VE",
+      "VEN",
+      "Venezuela",
+      "Venezuela, Bolivarian Republic of"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "playable": true,
+    "labelPoint": [
+      388.07,
+      288.78
+    ],
+    "degree": 3
+  },
+  "VGB": {
+    "code": "VGB",
+    "name": "British Virgin Islands",
+    "shortName": "British Virgin Islands",
+    "aliases": [
+      "British Virgin Islands",
+      "VG",
+      "VGB",
+      "Virgin Islands",
+      "Virgin Islands, British"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "VIR": {
+    "code": "VIR",
+    "name": "United States Virgin Islands",
+    "shortName": "United States Virgin Islands",
+    "aliases": [
+      "United States Virgin Islands",
+      "VI",
+      "VIR",
+      "Virgin Islands of the United States",
+      "Virgin Islands, U.S."
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "playable": false,
+    "degree": 0
+  },
+  "VNM": {
+    "code": "VNM",
+    "name": "Vietnam",
+    "shortName": "Vietnam",
+    "aliases": [
+      "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+      "Socialist Republic of Vietnam",
+      "Viet Nam",
+      "Vietnam",
+      "VN",
+      "VNM"
+    ],
+    "region": "Asia",
+    "subregion": "South-Eastern Asia",
+    "playable": true,
+    "labelPoint": [
+      936.64,
+      253.5
+    ],
+    "degree": 3
+  },
+  "VUT": {
+    "code": "VUT",
+    "name": "Vanuatu",
+    "shortName": "Vanuatu",
+    "aliases": [
+      "Republic of Vanuatu",
+      "République de Vanuatu",
+      "Ripablik blong Vanuatu",
+      "Vanuatu",
+      "VU",
+      "VUT"
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "playable": false,
+    "labelPoint": [
+      1130.55,
+      373.2
+    ],
+    "degree": 0
+  },
+  "WLF": {
+    "code": "WLF",
+    "name": "Wallis and Futuna",
+    "shortName": "Wallis and Futuna",
+    "aliases": [
+      "Territoire des îles Wallis et Futuna",
+      "Territory of the Wallis and Futuna Islands",
+      "Wallis and Futuna",
+      "WF",
+      "WLF"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "playable": false,
+    "degree": 0
+  },
+  "WSM": {
+    "code": "WSM",
+    "name": "Samoa",
+    "shortName": "Samoa",
+    "aliases": [
+      "Independent State of Samoa",
+      "Malo Saʻoloto Tutoʻatasi o Sāmoa",
+      "Samoa",
+      "WS",
+      "WSM"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "playable": false,
+    "degree": 0
+  },
+  "YEM": {
+    "code": "YEM",
+    "name": "Yemen",
+    "shortName": "Yemen",
+    "aliases": [
+      "al-Jumhūriyyah al-Yamaniyyah",
+      "Republic of Yemen",
+      "YE",
+      "YEM",
+      "Yemen",
+      "Yemeni Republic"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "playable": true,
+    "labelPoint": [
+      750.84,
+      256.2
+    ],
+    "degree": 2
+  },
+  "ZAF": {
+    "code": "ZAF",
+    "name": "South Africa",
+    "shortName": "South Africa",
+    "aliases": [
+      "Republic of South Africa",
+      "RSA",
+      "South Africa",
+      "Suid-Afrika",
+      "ZA",
+      "ZAF"
+    ],
+    "region": "Africa",
+    "subregion": "Southern Africa",
+    "playable": true,
+    "labelPoint": [
+      677.32,
+      423.19
+    ],
+    "degree": 6
+  },
+  "ZMB": {
+    "code": "ZMB",
+    "name": "Zambia",
+    "shortName": "Zambia",
+    "aliases": [
+      "Republic of Zambia",
+      "Zambia",
+      "ZM",
+      "ZMB"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": true,
+    "labelPoint": [
+      688.31,
+      365.18
+    ],
+    "degree": 8
+  },
+  "ZWE": {
+    "code": "ZWE",
+    "name": "Zimbabwe",
+    "shortName": "Zimbabwe",
+    "aliases": [
+      "Republic of Zimbabwe",
+      "Zimbabwe",
+      "ZW",
+      "ZWE"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "playable": true,
+    "labelPoint": [
+      694.06,
+      385.73
+    ],
+    "degree": 4
+  }
+}

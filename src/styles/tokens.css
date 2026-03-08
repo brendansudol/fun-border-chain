@@ -1,0 +1,19 @@
+:root {
+  --color-ink: #1a252b;
+  --color-muted: #5e6b72;
+  --color-panel: #fffaf0;
+  --color-panel-border: rgba(72, 55, 34, 0.12);
+  --color-accent: #249c83;
+  --color-accent-deep: #0f6870;
+  --color-danger: #b54242;
+  --shadow-soft: 0 22px 60px rgba(72, 55, 34, 0.12);
+  --shadow-card: 0 18px 40px rgba(72, 55, 34, 0.1);
+
+  --map-base: #d6cfbf;
+  --map-start: #57bfa4;
+  --map-target: #e27f57;
+  --map-chain: #79ab99;
+  --map-current: #0f6870;
+  --map-hint: #f2b25b;
+  --map-solution: #f0d4a6;
+}

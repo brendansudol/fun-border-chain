@@ -1,0 +1,1233 @@
+{
+  "version": "1.0.0",
+  "nodes": {
+    "AFG": {
+      "neighbors": [
+        "CHN",
+        "IRN",
+        "PAK",
+        "TJK",
+        "TKM",
+        "UZB"
+      ]
+    },
+    "AGO": {
+      "neighbors": [
+        "COD",
+        "COG",
+        "NAM",
+        "ZMB"
+      ]
+    },
+    "ALB": {
+      "neighbors": [
+        "GRC",
+        "MKD",
+        "MNE"
+      ]
+    },
+    "ARE": {
+      "neighbors": [
+        "OMN",
+        "SAU"
+      ]
+    },
+    "ARG": {
+      "neighbors": [
+        "BOL",
+        "BRA",
+        "CHL",
+        "PRY",
+        "URY"
+      ]
+    },
+    "ARM": {
+      "neighbors": [
+        "AZE",
+        "GEO",
+        "IRN",
+        "TUR"
+      ]
+    },
+    "AUT": {
+      "neighbors": [
+        "CHE",
+        "CZE",
+        "DEU",
+        "HUN",
+        "ITA",
+        "SVK",
+        "SVN"
+      ]
+    },
+    "AZE": {
+      "neighbors": [
+        "ARM",
+        "GEO",
+        "IRN",
+        "RUS",
+        "TUR"
+      ]
+    },
+    "BDI": {
+      "neighbors": [
+        "COD",
+        "RWA",
+        "TZA"
+      ]
+    },
+    "BEL": {
+      "neighbors": [
+        "DEU",
+        "FRA",
+        "LUX",
+        "NLD"
+      ]
+    },
+    "BEN": {
+      "neighbors": [
+        "BFA",
+        "NER",
+        "NGA",
+        "TGO"
+      ]
+    },
+    "BFA": {
+      "neighbors": [
+        "BEN",
+        "CIV",
+        "GHA",
+        "MLI",
+        "NER",
+        "TGO"
+      ]
+    },
+    "BGD": {
+      "neighbors": [
+        "IND",
+        "MMR"
+      ]
+    },
+    "BGR": {
+      "neighbors": [
+        "GRC",
+        "MKD",
+        "ROU",
+        "SRB",
+        "TUR"
+      ]
+    },
+    "BIH": {
+      "neighbors": [
+        "HRV",
+        "MNE",
+        "SRB"
+      ]
+    },
+    "BLR": {
+      "neighbors": [
+        "LTU",
+        "LVA",
+        "POL",
+        "RUS",
+        "UKR"
+      ]
+    },
+    "BLZ": {
+      "neighbors": [
+        "GTM",
+        "MEX"
+      ]
+    },
+    "BOL": {
+      "neighbors": [
+        "ARG",
+        "BRA",
+        "CHL",
+        "PER",
+        "PRY"
+      ]
+    },
+    "BRA": {
+      "neighbors": [
+        "ARG",
+        "BOL",
+        "COL",
+        "GUY",
+        "PER",
+        "PRY",
+        "SUR",
+        "URY",
+        "VEN"
+      ]
+    },
+    "BRN": {
+      "neighbors": [
+        "MYS"
+      ]
+    },
+    "BTN": {
+      "neighbors": [
+        "CHN",
+        "IND"
+      ]
+    },
+    "BWA": {
+      "neighbors": [
+        "NAM",
+        "ZAF",
+        "ZMB",
+        "ZWE"
+      ]
+    },
+    "CAF": {
+      "neighbors": [
+        "CMR",
+        "COD",
+        "COG",
+        "SDN",
+        "SSD",
+        "TCD"
+      ]
+    },
+    "CAN": {
+      "neighbors": [
+        "USA"
+      ]
+    },
+    "CHE": {
+      "neighbors": [
+        "AUT",
+        "DEU",
+        "FRA",
+        "ITA"
+      ]
+    },
+    "CHL": {
+      "neighbors": [
+        "ARG",
+        "BOL",
+        "PER"
+      ]
+    },
+    "CHN": {
+      "neighbors": [
+        "AFG",
+        "BTN",
+        "IND",
+        "KAZ",
+        "KGZ",
+        "LAO",
+        "MMR",
+        "MNG",
+        "NPL",
+        "PAK",
+        "PRK",
+        "RUS",
+        "TJK",
+        "VNM"
+      ]
+    },
+    "CIV": {
+      "neighbors": [
+        "BFA",
+        "GHA",
+        "GIN",
+        "LBR",
+        "MLI"
+      ]
+    },
+    "CMR": {
+      "neighbors": [
+        "CAF",
+        "COG",
+        "GAB",
+        "GNQ",
+        "NGA",
+        "TCD"
+      ]
+    },
+    "COD": {
+      "neighbors": [
+        "AGO",
+        "BDI",
+        "CAF",
+        "COG",
+        "RWA",
+        "SSD",
+        "TZA",
+        "UGA",
+        "ZMB"
+      ]
+    },
+    "COG": {
+      "neighbors": [
+        "AGO",
+        "CAF",
+        "CMR",
+        "COD",
+        "GAB"
+      ]
+    },
+    "COL": {
+      "neighbors": [
+        "BRA",
+        "ECU",
+        "PAN",
+        "PER",
+        "VEN"
+      ]
+    },
+    "CRI": {
+      "neighbors": [
+        "NIC",
+        "PAN"
+      ]
+    },
+    "CZE": {
+      "neighbors": [
+        "AUT",
+        "DEU",
+        "POL",
+        "SVK"
+      ]
+    },
+    "DEU": {
+      "neighbors": [
+        "AUT",
+        "BEL",
+        "CHE",
+        "CZE",
+        "DNK",
+        "FRA",
+        "LUX",
+        "NLD",
+        "POL"
+      ]
+    },
+    "DJI": {
+      "neighbors": [
+        "ERI",
+        "ETH",
+        "SOM"
+      ]
+    },
+    "DNK": {
+      "neighbors": [
+        "DEU"
+      ]
+    },
+    "DOM": {
+      "neighbors": [
+        "HTI"
+      ]
+    },
+    "DZA": {
+      "neighbors": [
+        "ESH",
+        "LBY",
+        "MAR",
+        "MLI",
+        "MRT",
+        "NER",
+        "TUN"
+      ]
+    },
+    "ECU": {
+      "neighbors": [
+        "COL",
+        "PER"
+      ]
+    },
+    "EGY": {
+      "neighbors": [
+        "ISR",
+        "LBY",
+        "PSE",
+        "SDN"
+      ]
+    },
+    "ERI": {
+      "neighbors": [
+        "DJI",
+        "ETH",
+        "SDN"
+      ]
+    },
+    "ESH": {
+      "neighbors": [
+        "DZA",
+        "MAR",
+        "MRT"
+      ]
+    },
+    "ESP": {
+      "neighbors": [
+        "FRA",
+        "MAR",
+        "PRT"
+      ]
+    },
+    "EST": {
+      "neighbors": [
+        "LVA",
+        "RUS"
+      ]
+    },
+    "ETH": {
+      "neighbors": [
+        "DJI",
+        "ERI",
+        "KEN",
+        "SDN",
+        "SOM",
+        "SSD"
+      ]
+    },
+    "FIN": {
+      "neighbors": [
+        "NOR",
+        "RUS",
+        "SWE"
+      ]
+    },
+    "FRA": {
+      "neighbors": [
+        "BEL",
+        "CHE",
+        "DEU",
+        "ESP",
+        "ITA",
+        "LUX"
+      ]
+    },
+    "GAB": {
+      "neighbors": [
+        "CMR",
+        "COG",
+        "GNQ"
+      ]
+    },
+    "GBR": {
+      "neighbors": [
+        "IRL"
+      ]
+    },
+    "GEO": {
+      "neighbors": [
+        "ARM",
+        "AZE",
+        "RUS",
+        "TUR"
+      ]
+    },
+    "GHA": {
+      "neighbors": [
+        "BFA",
+        "CIV",
+        "TGO"
+      ]
+    },
+    "GIN": {
+      "neighbors": [
+        "CIV",
+        "GNB",
+        "LBR",
+        "MLI",
+        "SEN",
+        "SLE"
+      ]
+    },
+    "GMB": {
+      "neighbors": [
+        "SEN"
+      ]
+    },
+    "GNB": {
+      "neighbors": [
+        "GIN",
+        "SEN"
+      ]
+    },
+    "GNQ": {
+      "neighbors": [
+        "CMR",
+        "GAB"
+      ]
+    },
+    "GRC": {
+      "neighbors": [
+        "ALB",
+        "BGR",
+        "MKD",
+        "TUR"
+      ]
+    },
+    "GTM": {
+      "neighbors": [
+        "BLZ",
+        "HND",
+        "MEX",
+        "SLV"
+      ]
+    },
+    "GUY": {
+      "neighbors": [
+        "BRA",
+        "SUR",
+        "VEN"
+      ]
+    },
+    "HND": {
+      "neighbors": [
+        "GTM",
+        "NIC",
+        "SLV"
+      ]
+    },
+    "HRV": {
+      "neighbors": [
+        "BIH",
+        "HUN",
+        "MNE",
+        "SRB",
+        "SVN"
+      ]
+    },
+    "HTI": {
+      "neighbors": [
+        "DOM"
+      ]
+    },
+    "HUN": {
+      "neighbors": [
+        "AUT",
+        "HRV",
+        "ROU",
+        "SRB",
+        "SVK",
+        "SVN",
+        "UKR"
+      ]
+    },
+    "IDN": {
+      "neighbors": [
+        "MYS",
+        "PNG",
+        "TLS"
+      ]
+    },
+    "IND": {
+      "neighbors": [
+        "BGD",
+        "BTN",
+        "CHN",
+        "LKA",
+        "MMR",
+        "NPL",
+        "PAK"
+      ]
+    },
+    "IRL": {
+      "neighbors": [
+        "GBR"
+      ]
+    },
+    "IRN": {
+      "neighbors": [
+        "AFG",
+        "ARM",
+        "AZE",
+        "IRQ",
+        "PAK",
+        "TKM",
+        "TUR"
+      ]
+    },
+    "IRQ": {
+      "neighbors": [
+        "IRN",
+        "JOR",
+        "KWT",
+        "SAU",
+        "SYR",
+        "TUR"
+      ]
+    },
+    "ISR": {
+      "neighbors": [
+        "EGY",
+        "JOR",
+        "LBN",
+        "PSE",
+        "SYR"
+      ]
+    },
+    "ITA": {
+      "neighbors": [
+        "AUT",
+        "CHE",
+        "FRA",
+        "SVN"
+      ]
+    },
+    "JOR": {
+      "neighbors": [
+        "IRQ",
+        "ISR",
+        "PSE",
+        "SAU",
+        "SYR"
+      ]
+    },
+    "KAZ": {
+      "neighbors": [
+        "CHN",
+        "KGZ",
+        "RUS",
+        "TKM",
+        "UZB"
+      ]
+    },
+    "KEN": {
+      "neighbors": [
+        "ETH",
+        "SOM",
+        "SSD",
+        "TZA",
+        "UGA"
+      ]
+    },
+    "KGZ": {
+      "neighbors": [
+        "CHN",
+        "KAZ",
+        "TJK",
+        "UZB"
+      ]
+    },
+    "KHM": {
+      "neighbors": [
+        "LAO",
+        "THA",
+        "VNM"
+      ]
+    },
+    "KOR": {
+      "neighbors": [
+        "PRK"
+      ]
+    },
+    "KWT": {
+      "neighbors": [
+        "IRQ",
+        "SAU"
+      ]
+    },
+    "LAO": {
+      "neighbors": [
+        "CHN",
+        "KHM",
+        "MMR",
+        "THA",
+        "VNM"
+      ]
+    },
+    "LBN": {
+      "neighbors": [
+        "ISR",
+        "SYR"
+      ]
+    },
+    "LBR": {
+      "neighbors": [
+        "CIV",
+        "GIN",
+        "SLE"
+      ]
+    },
+    "LBY": {
+      "neighbors": [
+        "DZA",
+        "EGY",
+        "NER",
+        "SDN",
+        "TCD",
+        "TUN"
+      ]
+    },
+    "LKA": {
+      "neighbors": [
+        "IND"
+      ]
+    },
+    "LSO": {
+      "neighbors": [
+        "ZAF"
+      ]
+    },
+    "LTU": {
+      "neighbors": [
+        "BLR",
+        "LVA",
+        "POL",
+        "RUS"
+      ]
+    },
+    "LUX": {
+      "neighbors": [
+        "BEL",
+        "DEU",
+        "FRA"
+      ]
+    },
+    "LVA": {
+      "neighbors": [
+        "BLR",
+        "EST",
+        "LTU",
+        "RUS"
+      ]
+    },
+    "MAR": {
+      "neighbors": [
+        "DZA",
+        "ESH",
+        "ESP"
+      ]
+    },
+    "MDA": {
+      "neighbors": [
+        "ROU",
+        "UKR"
+      ]
+    },
+    "MEX": {
+      "neighbors": [
+        "BLZ",
+        "GTM",
+        "USA"
+      ]
+    },
+    "MKD": {
+      "neighbors": [
+        "ALB",
+        "BGR",
+        "GRC",
+        "SRB"
+      ]
+    },
+    "MLI": {
+      "neighbors": [
+        "BFA",
+        "CIV",
+        "DZA",
+        "GIN",
+        "MRT",
+        "NER",
+        "SEN"
+      ]
+    },
+    "MMR": {
+      "neighbors": [
+        "BGD",
+        "CHN",
+        "IND",
+        "LAO",
+        "THA"
+      ]
+    },
+    "MNE": {
+      "neighbors": [
+        "ALB",
+        "BIH",
+        "HRV",
+        "SRB"
+      ]
+    },
+    "MNG": {
+      "neighbors": [
+        "CHN",
+        "RUS"
+      ]
+    },
+    "MOZ": {
+      "neighbors": [
+        "MWI",
+        "SWZ",
+        "TZA",
+        "ZAF",
+        "ZMB",
+        "ZWE"
+      ]
+    },
+    "MRT": {
+      "neighbors": [
+        "DZA",
+        "ESH",
+        "MLI",
+        "SEN"
+      ]
+    },
+    "MWI": {
+      "neighbors": [
+        "MOZ",
+        "TZA",
+        "ZMB"
+      ]
+    },
+    "MYS": {
+      "neighbors": [
+        "BRN",
+        "IDN",
+        "THA"
+      ]
+    },
+    "NAM": {
+      "neighbors": [
+        "AGO",
+        "BWA",
+        "ZAF",
+        "ZMB"
+      ]
+    },
+    "NER": {
+      "neighbors": [
+        "BEN",
+        "BFA",
+        "DZA",
+        "LBY",
+        "MLI",
+        "NGA",
+        "TCD"
+      ]
+    },
+    "NGA": {
+      "neighbors": [
+        "BEN",
+        "CMR",
+        "NER",
+        "TCD"
+      ]
+    },
+    "NIC": {
+      "neighbors": [
+        "CRI",
+        "HND"
+      ]
+    },
+    "NLD": {
+      "neighbors": [
+        "BEL",
+        "DEU"
+      ]
+    },
+    "NOR": {
+      "neighbors": [
+        "FIN",
+        "RUS",
+        "SWE"
+      ]
+    },
+    "NPL": {
+      "neighbors": [
+        "CHN",
+        "IND"
+      ]
+    },
+    "OMN": {
+      "neighbors": [
+        "ARE",
+        "SAU",
+        "YEM"
+      ]
+    },
+    "PAK": {
+      "neighbors": [
+        "AFG",
+        "CHN",
+        "IND",
+        "IRN"
+      ]
+    },
+    "PAN": {
+      "neighbors": [
+        "COL",
+        "CRI"
+      ]
+    },
+    "PER": {
+      "neighbors": [
+        "BOL",
+        "BRA",
+        "CHL",
+        "COL",
+        "ECU"
+      ]
+    },
+    "PNG": {
+      "neighbors": [
+        "IDN"
+      ]
+    },
+    "POL": {
+      "neighbors": [
+        "BLR",
+        "CZE",
+        "DEU",
+        "LTU",
+        "RUS",
+        "SVK",
+        "UKR"
+      ]
+    },
+    "PRK": {
+      "neighbors": [
+        "CHN",
+        "KOR",
+        "RUS"
+      ]
+    },
+    "PRT": {
+      "neighbors": [
+        "ESP"
+      ]
+    },
+    "PRY": {
+      "neighbors": [
+        "ARG",
+        "BOL",
+        "BRA"
+      ]
+    },
+    "PSE": {
+      "neighbors": [
+        "EGY",
+        "ISR",
+        "JOR"
+      ]
+    },
+    "QAT": {
+      "neighbors": [
+        "SAU"
+      ]
+    },
+    "ROU": {
+      "neighbors": [
+        "BGR",
+        "HUN",
+        "MDA",
+        "SRB",
+        "UKR"
+      ]
+    },
+    "RUS": {
+      "neighbors": [
+        "AZE",
+        "BLR",
+        "CHN",
+        "EST",
+        "FIN",
+        "GEO",
+        "KAZ",
+        "LTU",
+        "LVA",
+        "MNG",
+        "NOR",
+        "POL",
+        "PRK",
+        "UKR"
+      ]
+    },
+    "RWA": {
+      "neighbors": [
+        "BDI",
+        "COD",
+        "TZA",
+        "UGA"
+      ]
+    },
+    "SAU": {
+      "neighbors": [
+        "ARE",
+        "IRQ",
+        "JOR",
+        "KWT",
+        "OMN",
+        "QAT",
+        "YEM"
+      ]
+    },
+    "SDN": {
+      "neighbors": [
+        "CAF",
+        "EGY",
+        "ERI",
+        "ETH",
+        "LBY",
+        "SSD",
+        "TCD"
+      ]
+    },
+    "SEN": {
+      "neighbors": [
+        "GIN",
+        "GMB",
+        "GNB",
+        "MLI",
+        "MRT"
+      ]
+    },
+    "SLE": {
+      "neighbors": [
+        "GIN",
+        "LBR"
+      ]
+    },
+    "SLV": {
+      "neighbors": [
+        "GTM",
+        "HND"
+      ]
+    },
+    "SOM": {
+      "neighbors": [
+        "DJI",
+        "ETH",
+        "KEN"
+      ]
+    },
+    "SRB": {
+      "neighbors": [
+        "BGR",
+        "BIH",
+        "HRV",
+        "HUN",
+        "MKD",
+        "MNE",
+        "ROU"
+      ]
+    },
+    "SSD": {
+      "neighbors": [
+        "CAF",
+        "COD",
+        "ETH",
+        "KEN",
+        "SDN",
+        "UGA"
+      ]
+    },
+    "SUR": {
+      "neighbors": [
+        "BRA",
+        "GUY"
+      ]
+    },
+    "SVK": {
+      "neighbors": [
+        "AUT",
+        "CZE",
+        "HUN",
+        "POL",
+        "UKR"
+      ]
+    },
+    "SVN": {
+      "neighbors": [
+        "AUT",
+        "HRV",
+        "HUN",
+        "ITA"
+      ]
+    },
+    "SWE": {
+      "neighbors": [
+        "FIN",
+        "NOR"
+      ]
+    },
+    "SWZ": {
+      "neighbors": [
+        "MOZ",
+        "ZAF"
+      ]
+    },
+    "SYR": {
+      "neighbors": [
+        "IRQ",
+        "ISR",
+        "JOR",
+        "LBN",
+        "TUR"
+      ]
+    },
+    "TCD": {
+      "neighbors": [
+        "CAF",
+        "CMR",
+        "LBY",
+        "NER",
+        "NGA",
+        "SDN"
+      ]
+    },
+    "TGO": {
+      "neighbors": [
+        "BEN",
+        "BFA",
+        "GHA"
+      ]
+    },
+    "THA": {
+      "neighbors": [
+        "KHM",
+        "LAO",
+        "MMR",
+        "MYS"
+      ]
+    },
+    "TJK": {
+      "neighbors": [
+        "AFG",
+        "CHN",
+        "KGZ",
+        "UZB"
+      ]
+    },
+    "TKM": {
+      "neighbors": [
+        "AFG",
+        "IRN",
+        "KAZ",
+        "UZB"
+      ]
+    },
+    "TLS": {
+      "neighbors": [
+        "IDN"
+      ]
+    },
+    "TUN": {
+      "neighbors": [
+        "DZA",
+        "LBY"
+      ]
+    },
+    "TUR": {
+      "neighbors": [
+        "ARM",
+        "AZE",
+        "BGR",
+        "GEO",
+        "GRC",
+        "IRN",
+        "IRQ",
+        "SYR"
+      ]
+    },
+    "TZA": {
+      "neighbors": [
+        "BDI",
+        "COD",
+        "KEN",
+        "MOZ",
+        "MWI",
+        "RWA",
+        "UGA",
+        "ZMB"
+      ]
+    },
+    "UGA": {
+      "neighbors": [
+        "COD",
+        "KEN",
+        "RWA",
+        "SSD",
+        "TZA"
+      ]
+    },
+    "UKR": {
+      "neighbors": [
+        "BLR",
+        "HUN",
+        "MDA",
+        "POL",
+        "ROU",
+        "RUS",
+        "SVK"
+      ]
+    },
+    "URY": {
+      "neighbors": [
+        "ARG",
+        "BRA"
+      ]
+    },
+    "USA": {
+      "neighbors": [
+        "CAN",
+        "MEX"
+      ]
+    },
+    "UZB": {
+      "neighbors": [
+        "AFG",
+        "KAZ",
+        "KGZ",
+        "TJK",
+        "TKM"
+      ]
+    },
+    "VEN": {
+      "neighbors": [
+        "BRA",
+        "COL",
+        "GUY"
+      ]
+    },
+    "VNM": {
+      "neighbors": [
+        "CHN",
+        "KHM",
+        "LAO"
+      ]
+    },
+    "YEM": {
+      "neighbors": [
+        "OMN",
+        "SAU"
+      ]
+    },
+    "ZAF": {
+      "neighbors": [
+        "BWA",
+        "LSO",
+        "MOZ",
+        "NAM",
+        "SWZ",
+        "ZWE"
+      ]
+    },
+    "ZMB": {
+      "neighbors": [
+        "AGO",
+        "BWA",
+        "COD",
+        "MOZ",
+        "MWI",
+        "NAM",
+        "TZA",
+        "ZWE"
+      ]
+    },
+    "ZWE": {
+      "neighbors": [
+        "BWA",
+        "MOZ",
+        "ZAF",
+        "ZMB"
+      ]
+    }
+  }
+}
